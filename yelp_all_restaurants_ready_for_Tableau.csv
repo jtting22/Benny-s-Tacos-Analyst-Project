@@ -1,0 +1,998 @@
+name,review_count,rating,city,zip_code,id,latitude,longitude,alias,title,price
+"El Pollo Loco",107,2.0,"Los Angeles",90010,Ize1BfSF3Z5NTYqfdo-i0g,34.062033935054465,-118.31358180613422,hotdogs,"Fast Food",NA
+"Julie's Tacos",4,4.5,"Los Angeles",90004,q1GgAIYQ_YhYFwmqq33-ZA,34.068938,-118.32246,foodtrucks,"Food Trucks",NA
+"Chef Kang Korean Taco",32,5.0,"Los Angeles",90010,ho3kMMflXm9q9skQui4ioQ,34.06187,-118.31129,korean,Korean,NA
+"Caffe Delizioso",12,4.0,"Los Angeles",90010,wABOD2wsPLXDpGzfOxvl_Q,34.062295,-118.332631,sandwiches,Sandwiches,NA
+Olocuilta,50,4.0,"Los Angeles",90020,26B8eoQay7_Fp1G2i5LSMQ,34.0633739,-118.30929419420447,salvadoran,Salvadoran,NA
+"Taco Man Burrito Boy",1,1.0,"Los Angeles",90005,T-qkyX9dBEIRtPd9etI33A,34.0600700378418,-118.309768676758,foodtrucks,"Food Trucks",NA
+"Toms Grill",4,5.0,"Los Angeles",90005,aTwJaeghoVTk02rfnhrnqA,34.05843,-118.3057,foodtrucks,"Food Trucks",NA
+"Chehuahu Tacos",3,5.0,"Los Angeles",90005,oXkxVB9Hl7p9efES_BA8ug,34.0596281411676,-118.309000587471,streetvendors,"Street Vendors",NA
+"Birrieria Cortez",1,5.0,"Los Angeles",90020,CP9XQRhazhmHwnhnMgFTPg,34.06650924682617,-118.30158233642578,mexican,Mexican,NA
+"Mi Ricos Tacos",1,5.0,"Los Angeles",90020,YrwMm5w7m6RpY8zKWLto6A,34.06714962240979,-118.30929759889841,tacos,Tacos,NA
+"Angelica's Mexican Food",23,3.5,"Los Angeles",90020,ESJP_pYRn9AqOs0RBHGDoQ,34.065359,-118.308328,streetvendors,"Street Vendors",NA
+"Alejos Tacos",3,3.5,"Los Angeles",90010,VN8w106SGDlKlCBtaBc_4g,34.0616284721973,-118.307447224473,tacos,Tacos,NA
+"Chelitas Authentic Mexican Cuisine",1,5.0,"Los Angeles",90019,BcHXA6rQjB0BmYf7QXW9Rg,34.0569557,-118.3344377,mexican,Mexican,NA
+"Aguilar's Taco's",2,1.0,"Los Angeles",90014,kgk26UTpjRS-M-xBfMp_dg,34.06149,-118.30603,mexican,Mexican,NA
+"Juanita's Tacos",127,4.0,"Los Angeles",90189,_5Z2zEujMT0cSTYC_hTpEQ,34.068871,-118.308156,mexican,Mexican,NA
+"Tu Madre - Larchmont",391,3.5,"Los Angeles",90004,oZZlgNNCOMEueGKBcjYQYg,34.0746644452496,-118.323689147981,tacos,Tacos,NA
+"Tacos Los Reyes",43,4.0,"Los Angeles",90019,fr7Sk_5f368QKt2-LWe_kA,34.052661,-118.309038,foodtrucks,"Food Trucks",NA
+"Restaurante Puerto La Union",36,4.5,"Los Angeles",90019,N3kpw-HTFn87X7r0jvcI_A,34.04773,-118.3228,salvadoran,Salvadoran,NA
+"La Cevicheria",1,5.0,"Los Angeles",90019,DS_VwOJHAMMxg754JXBwdQ,34.04759,-118.32266,seafood,Seafood,NA
+"La Strada Cafe",1,2.0,"Los Angeles",90006,zsjqr6NsmH-QAKYEU6J0AA,34.051594,-118.3088,mexican,Mexican,NA
+"El Pollo Loco",80,2.5,"Los Angeles",90036,UhNhlV96LksjYSiiHinWCQ,34.06265673512999,-118.33879236267222,hotdogs,"Fast Food",NA
+"Expresion Oaxaquena",132,3.5,"Los Angeles",90019,3DjyeraiCPxU8IoSfWqwMg,34.047621,-118.315934,mexican,Mexican,NA
+"La Mayordomia",9,2.5,"Los Angeles",90019,WtPQJ2OKlxjt97_BovUnSQ,34.0475199824118,-118.31631693989,coffee,"Coffee & Tea",NA
+"El Cholo",1392,3.5,"Los Angeles",90006,f8NLMQ-60caG8ubf-y57eg,34.0501937866211,-118.30940246582,mexican,Mexican,NA
+"Chipotle Mexican Grill",204,2.5,"Los Angeles",90004,8UZlHJdR_C4VK4F4G0GL9Q,34.0764487,-118.3239423,mexican,Mexican,NA
+"La Cocinita",44,4.5,"Los Angeles",90019,lfYZj35tFbnHwgLFyPTKqQ,34.0482851,-118.3303905,mexican,Mexican,NA
+"Loteria Grill",8,4.0,"Los Angeles",90019,5sR75JcaXteMwUyOemsZ5w,34.04752710551461,-118.32777129118355,mexican,Mexican,NA
+"La Adelita Food Company",21,3.0,"Los Angeles",90019,anSOASkaXJPwp6ab2hUEjQ,34.0471,-118.32339,desserts,Desserts,NA
+"Burritos Sahuayo",34,4.5,"Los Angeles",90189,hyXqATEfPD49oip_Y1b0vw,34.07307,-118.309189,mexican,Mexican,NA
+"Lily's Catering",28,3.5,"Los Angeles",90010,_xWqcfmdZsgJf7XUl9Azbg,34.0617099,-118.3025318,foodtrucks,"Food Trucks",NA
+"El Corredor Oaxaqueño Market",3,3.5,"Los Angeles",90019,4lfgcUT18OTOOWhbb5oh6A,34.0485,-118.33234,mexican,Mexican,NA
+"Tacos El Compita",339,4.0,"Los Angeles",90019,TZFTVm9WbsWILRdY98SYtA,34.0485400612365,-118.332734741271,streetvendors,"Street Vendors",NA
+"Taco Sinaloa Truck",26,4.5,"Los Angeles",90005,4vdVvysRcga7MWhb7vuBpg,34.0577,-118.30201,mexican,Mexican,NA
+"Pachecos Tacos",62,4.5,"Los Angeles",90010,SOFxfB9jpOBo11Iz5okzQw,34.0617471958293,-118.301396816969,foodtrucks,"Food Trucks",NA
+"La Canada Taqueria",33,3.5,"Los Angeles",90019,UYMv4UxmDxVE6Sv-tCc9eg,34.0478630065918,-118.309494018555,mexican,Mexican,NA
+"Daniel's Food Truck",10,3.5,"Los Angeles",90010,XTXaQRboup6KNSNXugPfzA,34.0616415015793,-118.30108646422,foodtrucks,"Food Trucks",NA
+"Sabores Oaxaqueños Restaurant",288,4.5,"Los Angeles",90005,DooegA7kiv2h57T-sjj7oA,34.0578348,-118.3015851,mexican,Mexican,NA
+"Xanath Kitchen",8,5.0,"Los Angeles",90004,WMYucWtH04igg8FWbmsQkw,34.07621018804473,-118.31084292840208,foodtrucks,"Food Trucks",NA
+"Antony's Antojitos & Desayunos",3,5.0,"Los Angeles",90004,SThzSwcYajT93_8ihpOGTw,34.0755882263184,-118.299713134766,foodtrucks,"Food Trucks",NA
+"Casa De Cool Mexican Cantina",1,1.0,"Los Angeles",90004,LNCTmYbEy-xqPa2UMpIxTg,34.07628631591797,-118.30208587646484,fooddeliveryservices,"Food Delivery Services",NA
+"8th N' Irolo Taco Truck",2,3.0,"Los Angeles",90005,X7i2lfBfdYdfLcKFiGF5MA,34.05773,-118.3009,foodstands,"Food Stands",NA
+"Venice Market & Bakery",8,4.0,"Los Angeles",90019,wSte9RgpyKMRfFROu34STg,34.045045573556,-118.328622579575,bakeries,Bakeries,NA
+"Tacos Las Palomos",1,5.0,"Los Angeles",90019,kPwz654HFxFWGQwe--_aKg,34.04466,-118.32752,tacos,Tacos,NA
+"Tacos El Pantera",1,5.0,"Los Angeles",90006,1ySrNKy9FQnL-Ca9ylaRNw,34.0468788,-118.3094406,foodtrucks,"Food Trucks",NA
+"Taco Bell",42,1.5,"Los Angeles",90019,jrpi_HVwtBgtaZUGSDjR_w,34.044713,-118.328511,mexican,Mexican,NA
+"El Nuevo Rinconcito Oaxaqueño",1,5.0,"Los Angeles",90019,cl_aL7RxBlg4EhbqA_y68g,34.0473080200471,-118.308264613152,mexican,Mexican,NA
+"Jack in the Box",58,3.0,"Los Angeles",90036,XetKZHXkPgrWoTadxY5wnA,34.0624569,-118.343133330345,burgers,Burgers,NA
+"Expresion Oaxaquena",12,2.5,"Los Angeles",90006,q8k6TD0aeCndEgQ7mmeCew,34.0470551,-118.30877,mexican,Mexican,NA
+"Posole And Menudo Crew",1,5.0,"Los Angeles",90005,CMbyqv2mvyqpVDigXXjPQg,34.0577533941875,-118.299932654721,streetvendors,"Street Vendors",NA
+"Chiquis Tacos",16,4.5,"Los Angeles",90004,T5l5PMGTTz-eE6f1crI23w,34.0833206,-118.3108978,mexican,Mexican,NA
+"Chipotle Mexican Grill",191,2.5,"Los Angeles",90019,V2wJ6zkca9IG7gje5EGzsQ,34.0482755127167,-118.336546385978,mexican,Mexican,NA
+"Masa Tortilleria",1,4.0,"Los Angeles",90005,leZJpEOhHuU4PVncD36oDQ,34.057434,-118.2996651,mexican,Mexican,NA
+"La Tehuana",38,4.5,"Los Angeles",90020,7uPtiieYpyUaca9W6waqtw,34.069319,-118.300869,mexican,Mexican,NA
+"Harvard yard Bar Taqueria",1,5.0,"Los Angeles",90006,ypiLSEIS4sXM7H9W59oRzg,34.04586,-118.30885,tacos,Tacos,NA
+"All Season Brewing",126,4.0,"Los Angeles",90036,nN18SXvNOK2JtvYZJJ_wYA,34.06029,-118.34436,tacos,Tacos,NA
+"Chicas Tacos",623,4.0,"Los Angeles",90036,NSo-x-9ieVLtqakrkSGIHg,34.06029,-118.34436,mexican,Mexican,NA
+"El Taco Movil",12,4.0,"Los Angeles",90004,15KSle01k911_awGDzQUTw,34.0690808242262,-118.299987576196,mexican,Mexican,NA
+"Guelaguetza Restaurante",2491,4.0,"Los Angeles",90006,IzRINfSLBr6k_dq1e2WNew,34.05241,-118.30071,mexican,Mexican,NA
+Huitlacoche,104,4.5,"Los Angeles",90017,KWKkQHHwVBPS_4abj-DaYw,34.0607156,-118.3449314,foodtrucks,"Food Trucks",NA
+"Tacos La Guera",78,4.5,"Los Angeles",90006,mnNr1kWCIZxteflIYYZo1A,34.047213,-118.305318,foodtrucks,"Food Trucks",NA
+"Rico's Tacos",3,4.5,"Los Angeles",90006,fNbH7mgmaUZCNhn64hqmuA,34.05109,-118.3012,tacos,Tacos,NA
+"El Pollo Loco",72,2.5,"Los Angeles",90006,Jzu-0m4s611FA1NTExeKoQ,34.0442734,-118.30937783849254,hotdogs,"Fast Food",NA
+Candela,716,4.0,"Los Angeles",90036,zpCjv61s-5b-WJSd8opFvA,34.0596284,-118.3451919,mexican,Mexican,NA
+"Trejos Tacos - La Brea",1816,3.5,"Los Angeles",90019,rf20-kFTkk9BC4tfr8K_3g,34.056529,-118.344882,mexican,Mexican,NA
+"Taqueria Los Jemelos",6,5.0,"Los Angeles",90036,11Q2vy-O70A_COJYqTMfoQ,34.069699877926546,-118.34363254340663,tacos,Tacos,NA
+"Chato's tacos",1,5.0,"Los Angeles",90019,uKT1RgMzu8L2x7oJhgdqXQ,34.04857,-118.33874,streetvendors,"Street Vendors",NA
+"Cactus Taqueria #2",386,3.0,"Los Angeles",90004,4VgIBr6bgx0Aq3S4ARM1pA,34.0761255,-118.304113,mexican,Mexican,NA
+"La Señora de Los Tamales",8,4.5,"Los Angeles",90019,wHVBHPhl3ThCvkf9ZC1PjA,34.0435793553951,-118.309822322268,streetvendors,"Street Vendors",NA
+"El Delfin Jr",2,3.5,"Los Angeles",90010,0tJf3MfkGMVn3e4SbxbMKg,34.0617714,-118.2966766,foodtrucks,"Food Trucks",NA
+ASADA,1,1.0,"Los Angeles",90006,dytki0g9xHthe3jko0UFaQ,34.043948,-118.308559,latin,"Latin American",NA
+"Food Steez",1,1.0,"Los Angeles",90006,P7PFcgg-Y9Nc6pZq1OO2Gw,34.043948,-118.308559,fooddeliveryservices,"Food Delivery Services",NA
+"Tacos Tamix",84,4.5,"Los Angeles",90019,xclBhM8DqH84uciBzVkYUA,34.0483906060104,-118.340908102691,foodtrucks,"Food Trucks",NA
+"Tacos El Santa Cruz",8,5.0,"Los Angeles",90006,LIix35olyeB5_eunEhVdRw,34.05270575665104,-118.2983483295032,tacos,Tacos,NA
+"Raleigh Studios Cafe",12,4.0,"Los Angeles",90038,hf9Cql8AqCB6dV8a8uTyJA,34.0824164877827,-118.31746399259,italian,Italian,NA
+"El Chato Taco Truck",1347,4.5,"Los Angeles",90019,bvpxd7o3RZtz50YLpDsgLA,34.0571251,-118.346074,mexican,Mexican,NA
+"Taqueria El Palomar",2,2.5,"Los Angeles",90018,l1H_VG1mM3bDE-3udc4BHw,34.0433,-118.30865,mexican,Mexican,NA
+"Jose's Tacos",1,5.0,"Los Angeles",90006,y-gjNb2aAvCAYu1yE4K_Sw,34.0472252267862,-118.302551770196,mexican,Mexican,NA
+"Tacos el nuevo pidemento",1,5.0,"Los Angeles",90019,4V6pcaRr9MAVP5YgoWOc4w,34.04272951880279,-118.3090524676836,tacos,Tacos,NA
+"Las Cabanas de San Pedro Restaurant",1,3.0,"Los Angeles",90020,do-4pd_KOES7AZzeTYQQhA,34.069291752731,-118.297153222741,mexican,Mexican,NA
+"Teddy’s Red Tacos",22,3.0,"Los Angeles",90019,-rYx8v7diC2Pp_UhTruvjg,34.05054331002831,-118.34382467808047,tacos,Tacos,NA
+"Lucy's El Adobe Cafe",310,2.5,"Los Angeles",90038,I7PAkCrR5khfe8sn4nQ4Pw,34.0833451,-118.32117,mexican,Mexican,NA
+"Tacos 3rd And Kenmore",3,5.0,"Los Angeles",90004,9DUSbhUYZSO-Zig3hC0OBw,34.0695915,-118.2970123,mexican,Mexican,NA
+"Tacos El Changarro",1,5.0,"Los Angeles",90005,GyCSgqmeChtpU8seMdkK2A,34.0576771644178,-118.295255899429,mexican,Mexican,NA
+"Texis Restaurant",9,2.0,"Los Angeles",90006,MI6ilrDSLgg4W7ejTQjArA,34.0475197,-118.3008194,salvadoran,Salvadoran,NA
+"Tacos Como En El D.F. Taco Truck",55,4.5,"Los Angeles",90018,x5kZM4UNR6nmHy-Qiy3gNw,34.0399548411369,-118.315274566412,mexican,Mexican,NA
+"Tere's Mexican Grill",606,4.0,"Los Angeles",90038,azyDb-6veFabKKIfLleiMg,34.08321,-118.3284836,mexican,Mexican,NA
+"Mariela's Taco",454,3.5,"Los Angeles",90020,Y02OrEQ0c_NAT55j3AnKUQ,34.069114,-118.295933,mexican,Mexican,NA
+"Gish Bac Restaurant",92,3.5,"Los Angeles",90018,UPuGlJvngKuTmz-0-ssqVA,34.04033997605395,-118.33008700048428,mexican,Mexican,NA
+"Tacos Guelaguetza",51,4.5,"Los Angeles",90038,CQuhF2uwJ0OZpXXoNoxcpQ,34.083587,-118.327561,tacos,Tacos,NA
+"Mi Ranchito Veracruz",31,4.5,"West Hollywood",90038,d88cW5I72q8VxFTgh2pSaw,34.083341,-118.313716,mexican,Mexican,NA
+"El Venado",3,3.5,"Los Angeles",90018,j2u1HLB7CSQbwZlCLs68og,34.0399944,-118.3304195,mexican,Mexican,NA
+"Birria de Res LA TIA JUANA",20,5.0,"West Hollywood",90038,NljbXCwZuy8xawLqMFIXGw,34.0837105328,-118.327679948,foodtrucks,"Food Trucks",NA
+"El Zarape Beverly",34,3.5,"Los Angeles",90004,cM6JmDlaDyZ363o6rBkubw,34.076147833,-118.30017916,mexican,Mexican,NA
+"El Cartel",583,4.0,"Los Angeles",90036,Bq6I52mOTyC2iDHU2rh_5w,34.0625121510041,-118.348814569312,mexican,Mexican,NA
+"Mariscos Los Kabo's",4,3.0,"Los Angeles",90004,MHDC_PSa_OyDr91hzQrlSA,34.0761551,-118.2999243,mexican,Mexican,NA
+"Gringo's Fish Tacos & Mariscos",227,2.5,"Los Angeles",90016,vrEBwFFha22emhImNdE71Q,34.040345,-118.331426,seafood,Seafood,NA
+"El Rinconcito",37,4.5,"Los Angeles",90004,w_V10-XK25ViRkaFmSsZ3Q,34.0764110758926,-118.30027833581,breakfast_brunch,"Breakfast & Brunch",NA
+"Burritos And Beyond",3,2.5,"Los Angeles",90004,ymw0xozQ4_dtPSUbDxD7TA,34.08217,-118.30929,mexican,Mexican,NA
+"Bed & Breakfast Burrito",3,2.5,"Los Angeles",90004,nhr7vE9uUO2zvzyFla6A8w,34.08217,-118.30929,mexican,Mexican,NA
+"Nachos Muchachos",1,1.0,"Los Angeles",90004,V1Pp6M_J-Q8xOvdfP36q_Q,34.08217,-118.30929,fooddeliveryservices,"Food Delivery Services",NA
+"Lil Manana",1,1.0,"Los Angeles",90004,fKa1cFwrvdYo2xRa0uDuJA,34.08217,-118.30929,fooddeliveryservices,"Food Delivery Services",NA
+"Killa Dillas",1,2.0,"Los Angeles",90004,-ErADn4l673ZqfZ98the0g,34.08217,-118.30929,desserts,Desserts,NA
+"Try Tasty Tacos",3,1.0,"Los Angeles",90004,4UPjikhld62nMj6v09UaNQ,34.082274030610144,-118.3093058588935,tacos,Tacos,NA
+"Tacos Tony",5,5.0,"Los Angeles",90020,mdhxQUSdvCuKw3KYZT22ag,34.069312,-118.295248,tacos,Tacos,NA
+"Star Tacos",3,5.0,"Los Angeles",90004,ZFh_SrUzmeTZvdVGCqDyeQ,34.082473019857474,-118.3095278,foodtrucks,"Food Trucks",NA
+"Tacos Locos",91,4.0,"Los Angeles",90006,o-ko-JgdtsLQo8EzcXke_Q,34.0435604006052,-118.304231911898,mexican,Mexican,NA
+"Baja's Grill",82,4.0,"Los Angeles",90010,zB1_pBlTXglH6Rakk5dyuQ,34.06105,-118.293254,seafood,Seafood,NA
+"Jack in the Box",60,2.0,"Los Angeles",90016,q24BwR-1J2gjfZopcJywhw,34.0395469991484,-118.330942690372,burgers,Burgers,NA
+"El Farolito",18,4.0,"Los Angeles",90006,eIZDdfLHZZZ9BpTKfp5X8Q,34.0473525,-118.2985445,latin,"Latin American",NA
+"Lucy's Drive In",470,3.0,"Los Angeles",90019,_TiHIbRL1fyV5Jmyf8EAsg,34.04815,-118.34479,hotdogs,"Fast Food",NA
+"Cafe Mana",4,4.0,"Los Angeles",90006,6kioq1r7PP3ydv-QTgI_kA,34.0403043,-118.3085583,mexican,Mexican,NA
+"Chipotle Mexican Grill",226,2.5,"Los Angeles",90036,MzcsV759cW51LUEPpZWb5w,34.0621133485545,-118.350195922719,hotdogs,"Fast Food",NA
+"Jaime’s Tacos Estilo Pachuca Hidalgo",1,1.0,"Los Angeles",90004,AK8U3gcdAdVo0mI1x64VIw,34.06944,-118.294014,tacos,Tacos,NA
+"La Morena Oaxaqueña Restaurant",87,3.5,"Los Angeles",90020,I-5vXiOmD2AkDctZg6jdSg,34.0689051,-118.2933359,mexican,Mexican,NA
+"Pico Pica Rico",13,4.0,"Los Angeles",90006,ZHiAKMbyLa_JTVnusmXguQ,34.0472739854431,-118.297758072881,mexican,Mexican,NA
+"L.A Birria Pizza",6,5.0,"Los Angeles",90018,P-iga-SHdM1F9aKVeMuVVg,34.039625973914205,-118.30861316126769,pizza,Pizza,NA
+"El Nuevo Mirador Restaurant",10,3.5,"Los Angeles",90006,UyB7b_hAqVLMuG0apmgY8g,34.04754,-118.29752,mexican,Mexican,NA
+"Mariscos Michoacan",14,4.0,"Los Angeles",90020,u5Zq3coLLoG2whLK69vntg,34.0653498099349,-118.292245989163,mexican,Mexican,NA
+"Silver’s Tacos",6,5.0,"Los Angeles",90019,CAiuHAuZtBf27L_g0mZoRQ,34.04602649645342,-118.3441140905797,foodstands,"Food Stands",NA
+"Tacos Super Gallito",2,2.5,"Los Angeles",90019,Fq5JRN0nRFVSFrMI6yHnDw,34.046459,-118.344856,foodtrucks,"Food Trucks",NA
+"Taqui Taqui",1,5.0,"Los Angeles",90019,bJ6rbr3laPhHg2qbS7Cgmw,34.04739725782238,-118.3455181,mexican,Mexican,NA
+"El Flamin' Taco",761,4.0,"Los Angeles",90020,QmkcjISaVPchFil1BTxrtQ,34.06505,-118.29207,mexican,Mexican,NA
+"Taco Bell",86,2.5,"Los Angeles",90005,OiyQPfDqZg9V9PTs-RNlGQ,34.057965,-118.291934,hotdogs,"Fast Food",NA
+"Mar Azul",13,4.0,"Los Angeles",90004,jnI8i2h04Z6p9Of0_-vHLA,34.076541,-118.297721,salvadoran,Salvadoran,NA
+"Tacos El Venado",14,5.0,"Los Angeles",90005,mE0OmnSLmXv1QXUgM4Wanw,34.063649235896165,-118.29166173934937,tacos,Tacos,NA
+"Jack in the Box",101,2.5,"Los Angeles",90020,1tt3m2a9W_w8jpRUtpQb_Q,34.0655876174437,-118.2919447124,hotdogs,"Fast Food",NA
+"Tacos Super Gallito",142,3.0,"Los Angeles",90019,AsSTn4ge_5JDnm2I6ZawgA,34.0463239,-118.3450144,foodtrucks,"Food Trucks",NA
+"Chipotle Mexican Grill",285,2.0,"Los Angeles",90010,SDdkKuTbZDx2hSyKAxHkiw,34.0621302,-118.2913879,mexican,Mexican,NA
+"Pulgarcito Querido",4,4.5,"Los Angeles",90005,gP_E-EBq81rXSeh7-TXEcQ,34.0565,-118.29201,mexican,Mexican,NA
+"Taco Chabelita",399,3.5,"Los Angeles",90018,Rwpv3t1jaukDsFCqXbuLUw,34.0386047363281,-118.309288024902,mexican,Mexican,NA
+"Chesscos Mexican Cuisine & Stews",19,3.5,"Los Angeles",90015,V1QU46i4ybyv6EwG4qyidw,34.0583310269065,-118.291410952806,mexican,Mexican,NA
+"Ruben's Tacos",17,2.5,"Los Angeles",90006,0lzsGGI9FGMRgnyneY6pMQ,34.0490036010742,-118.286193847656,foodtrucks,"Food Trucks",NA
+"Leo's Tacos Truck",2059,4.5,"Los Angeles",90019,QKovUc1TmSNtZh0j5ZEagw,34.046438,-118.345718,foodtrucks,"Food Trucks",NA
+"Don Lino's Mexican Food",62,3.5,"Los Angeles",90020,rt4nXUTE-1YEnBIioS9rsA,34.0693,-118.29253,mexican,Mexican,NA
+"El Jalapeno Tacos",145,4.0,"Los Angeles",90005,vXbzLktO9oPvA6q5GptEAQ,34.05666,-118.291471,tacos,Tacos,NA
+"Taco Bell",92,2.5,"Los Angeles",90019,0NCbEgYh_jbutikTcC4Cog,34.045778,-118.345424,hotdogs,"Fast Food",NA
+"EL PATRON TACOS S&C",18,4.0,"Los Angeles",90020,I2O6PdU_2XNCraZrGVhT4w,34.06747429585866,-118.29151153564453,mexican,Mexican,NA
+"Taco Trucks",1,4.0,"Los Angeles",90189,IX3esF6JV2esoEJx3yMeTA,34.046202,-118.345876,foodstands,"Food Stands",NA
+"Las 7 Regiones",50,4.5,"Los Angeles",90006,5B69ChIZRSXvOM5WUG8xzw,34.0471251,-118.296048,mexican,Mexican,NA
+"Baja California Tacos",26,3.0,"Los Angeles",90004,R_KQVzxmpY0XLT9jfQepQA,34.069769,-118.292177,tacos,Tacos,NA
+"La Poblanita",28,4.0,"Los Angeles",90189,HOo6f28YBZStn0F9V4mOFA,34.06003,-118.2905,mexican,Mexican,NA
+"Best Burger",42,3.5,"Los Angeles",90016,DvHHrFI3GlSMi9AIoxp6qg,34.0400599,-118.33839,burgers,Burgers,NA
+"El Buen Sazon Latino Restaurant",3,5.0,"Los Angeles",90029,XfU5t8Xgf4zg3rpJrMqxyw,34.08506,-118.30883,salvadoran,Salvadoran,NA
+"Julio's Taco Truck",6,3.0,"Los Angeles",90020,k0b8ktuQuTIuhED9fXTLhg,34.06905,-118.29165,mexican,Mexican,NA
+"R&R Catering Taco Truck",4,4.0,"Los Angeles",90020,6XUX7F8POda4hfP3BQ4AuQ,34.06905,-118.29165,mexican,Mexican,NA
+"Tacos Estilo!",1,2.0,"Los Angeles",90004,MRo0UJz9gS24OjwbfJv2zQ,34.06905,-118.29165,mexican,Mexican,NA
+"El Vencedor Restaurant & Pupuseria",2,3.0,"Los Angeles",90029,kQZny5eXTenHKJBKtWsn8Q,34.0852219,-118.3091087,seafood,Seafood,NA
+"El Zarape Melrose",202,4.0,"Los Angeles",90029,koAIofFAgzs3ewEYJyUjgg,34.083714,-118.3055,mexican,Mexican,NA
+"Más Veggies Vegan Taqueria",1,5.0,"Los Angeles",90036,4HBRDZQHStTuq5OaxOMiZw,34.06767654418945,-118.34990692138672,fooddeliveryservices,"Food Delivery Services",NA
+"Tacos 1986",171,4.0,"Los Angeles",90036,IxBMrUR6XL_aQo2e_8YcEg,34.07628483,-118.34725583,tacos,Tacos,NA
+"Antojitos Mexicanos Truck",17,3.5,"Los Angeles",90004,VlhfxKyqMK4p_QD3GZrGBQ,34.0698202501861,-118.291526053448,mexican,Mexican,NA
+"El Pollo Loco",67,2.0,"Los Angeles",90006,FIHfKCuNNYZF1MWNOKnbYw,34.05282417805698,-118.29122395985047,hotdogs,"Fast Food",NA
+"Dino's Chicken and Burgers",2156,4.0,"Los Angeles",90006,iqjA5r6w_bFB2R4hseqhhQ,34.047441,-118.293926,burgers,Burgers,NA
+"Cactus Taqueria #1",979,3.5,"Los Angeles",90038,F-rQ33zVrlNIPBFPoXZOSQ,34.08827,-118.32633,tacos,Tacos,NA
+"El Coyote Mexican Cafe",1928,3.5,"Los Angeles",90036,Pb9KCJOvzfE20vRmOGtOrg,34.0758743286133,-118.349220275879,mexican,Mexican,NA
+Graciela's,6,3.5,"Los Angeles",90006,BfMXmEEhX-thl8veulCWHQ,34.0474149,-118.29328,mexican,Mexican,NA
+"Antojitos Immanuele Truck",2,4.0,"Los Angeles",90038,1Hub3kfJmk7dDraMtsYAJw,34.090742,-118.328574,mexican,Mexican,NA
+"Richards Tacos",21,5.0,"Los Angeles",90004,w0gssMlA04EBt989b0m8vg,34.0745582166494,-118.29179317107,streetvendors,"Street Vendors",NA
+"Petty Cash Taqueria & Bar",945,3.5,"Los Angeles",90036,IGx1I2NAsFegS9h1BaPUMA,34.0758865,-118.350284,mexican,Mexican,NA
+"Los Gatos Tacos",8,4.5,"Los Angeles",90019,-7YY-EQXRkxGWldRGB3hjw,34.048437,-118.351259,foodtrucks,"Food Trucks",NA
+"Gatos tacos L.A ",12,5.0,"Los Angeles",90019,gQIX-XFS33FGVKQ_sgXdCQ,34.048437,-118.351259,tacos,Tacos,NA
+"Taqueria Jalisco",63,4.0,"Los Angeles",90016,Yb6qRqJLQsqTi7TxnWWm5A,34.0399549,-118.3432121,mexican,Mexican,NA
+"La Reyna Tacos",36,4.5,"Los Angeles",90038,LHfFAmjRQvseCE-RnkF7TQ,34.0884873,-118.3102128,mexican,Mexican,NA
+"Acapulco Tortilleria",6,3.5,"Los Angeles",90006,Fi0tkGUkxEyrgPfHPYhDXQ,34.0469772,-118.2917349,mexican,Mexican,NA
+"Masala Grill",243,4.0,"Los Angeles",90019,upl-3W-EGpSeKZD2jdI0rw,34.05448,-118.35491,indpak,Indian,NA
+"Tacos La Fonda",4,4.0,"Los Angeles",90005,NFoz15gGg84jq1Nw-if7RA,34.0578384,-118.2916489,streetvendors,"Street Vendors",NA
+"Taco Bell",112,2.0,"Los Angeles",90029,nOXtrMVrAo-iys0B5TIqSQ,34.0883532677945,-118.308773562312,hotdogs,"Fast Food",NA
+"Cafe Vida - Kitchen",4,5.0,"Los Angeles",90007,NPSpOGmr3DlZlKAiGHzrBA,34.03972655019749,-118.2987956,breakfast_brunch,"Breakfast & Brunch",NA
+"Escuela Taqueria",1,5.0,"Los Angeles",90007,8rHItoEyWxwt07R3wkuYlg,34.039748,-118.298718,fooddeliveryservices,"Food Delivery Services",NA
+"Besame Tacos",2,5.0,"Los Angeles",90007,eaA-gyhyFL1R-exukY83PA,34.039688,-118.298718,mexican,Mexican,NA
+"Huicho's Bakery",53,2.0,"Los Angeles",90006,mEVavjpDWpsoBTi5Pz-UoA,34.04756044846459,-118.29099660425022,bakeries,Bakeries,NA
+"El Tauro Taco Stand",15,3.5,"Los Angeles",90020,km22tchMJfInEtizweCJ9A,34.0597202832481,-118.286289539271,mexican,Mexican,NA
+"Chipotle Mexican Grill",185,2.5,"Los Angeles",90046,p50NSydy3bB4PKQXCcXonA,34.0836611,-118.3443544,mexican,Mexican,NA
+"Armando's Hot Food",4,4.0,"Los Angeles",90038,m_q6rg4Grav0HgJ08MoFSg,34.09075,-118.32121,mexican,Mexican,NA
+"Tacos El Pumchis",4,5.0,"Los Angeles",90038,m7K8dP1sGanBxLbywZix7w,34.0899658203125,-118.328422546387,tacos,Tacos,NA
+"Jack in the Box",23,1.5,"Los Angeles",90038,wAszMSX_qBuM5Sk9qrIrTQ,34.090453,-118.326996,hotdogs,"Fast Food",NA
+"Senor Tacos",7,2.5,"Los Angeles",90038,J1Z48n-q62TPtA189qBRPg,34.090681,-118.326062,mexican,Mexican,NA
+"Bocado Latino",1,3.0,"Los Angeles",90006,0QEIBC8QbayTk_UtAQEY2Q,34.04708,-118.29064,mexican,Mexican,NA
+"Zermenos Restaurant",267,4.0,"Los Angeles",90038,eb76buRAUSnRuoqVEf2dBA,34.091152,-118.3225606,mexican,Mexican,NA
+"Yummy Donuts & Top Burger",33,3.0,"Los Angeles",90038,5qzvnwjwhdlKkIMvkXA8YQ,34.09044,-118.31327,donuts,Donuts,NA
+"Sabor Mexicano",1,5.0,"Los Angeles",90038,Fw_ElMy88uNouW9LjpwPMg,34.09068010014759,-118.31408195767109,mexican,Mexican,NA
+"Lowkey Burrito",88,4.5,"Los Angeles",90005,rQEMhSKknt-sDHjqwSC3Xg,34.05743,-118.285738,mexican,Mexican,NA
+"Sky's Gourmet Tacos",1176,4.0,"Los Angeles",90019,O1mZqTsmuDs8vtUhDsvMIA,34.0487026,-118.3537966,tacos,Tacos,NA
+"Leo's Tacos Truck",57,4.0,"Los Angeles",90006,jfXHwT8xdvPc5OX-9Kd52g,34.0443335,-118.2918743,foodtrucks,"Food Trucks",NA
+"La Cocina Mexicana",2,5.0,"Los Angeles",90038,RoM0cwCsu6CJC_pb8iJqxw,34.0902929008294,-118.3101672,mexican,Mexican,NA
+"Leo's Tacos Truck",87,4.0,"Los Angeles",90019,I2-zeYAqa0AIbtq9dvsq2A,34.046954,-118.289512,foodtrucks,"Food Trucks",NA
+"IndiMex Eats",370,4.5,"Los Angeles",90038,5MORxFcPj3u1D9Jp1AZj4A,34.091245,-118.32880667,indpak,Indian,NA
+"Tacos El Jefe",64,4.5,"Los Angeles",90006,hZIh3EKcnb305431RqX8Kg,34.0476343856121,-118.288818741874,foodtrucks,"Food Trucks",NA
+"Rikis's Tacos",7,4.5,"Los Angeles",90029,l6EkGL_6uAodYcfdvM-UKQ,34.0837421,-118.2958472,mexican,Mexican,NA
+"Keo's Colima Tacos",5,5.0,"Los Angeles",90018,0b8z04qV6Sqsa69wGfsKyA,34.0324745178223,-118.326797485352,catering,Caterers,NA
+"Fiesta Mexicana",7,4.0,"Los Angeles",90038,C446S9q32J3v6r2lx_b1gg,34.090922,-118.3107699,mexican,Mexican,NA
+"RAYGOZA CAFE",2,5.0,"Los Angeles",90038,zaH0yyMbLT6WRQMXgsjA2Q,34.092298,-118.322726,breakfast_brunch,"Breakfast & Brunch",NA
+"The Mexican Village",370,4.0,"Los Angeles",90004,n-wr69BDZE6n-EE-lZQd2Q,34.076065,-118.288469,mexican,Mexican,NA
+"Mi Paisano",2,4.0,"Los Angeles",90029,l20sGmhYlKmuwFA55cCiEw,34.0906351,-118.308896,mexican,Mexican,NA
+"Taco Bell",140,2.0,"Los Angeles",90038,VQf-OQGivLebmO648uIiww,34.092359,-118.326298,hotdogs,"Fast Food",NA
+"Sugar Taco",886,4.5,"Los Angeles",90046,DoyIC0ElqglrlHBKDxXOwg,34.08370683,-118.34784433,vegan,Vegan,NA
+"Tlayuda L.A. Restaurant",779,4.5,"Los Angeles",90029,Lop79P2KM9zFUCCaBYz6zA,34.0906351,-118.307928,mexican,Mexican,NA
+"Gogo’s Tacos",50,4.5,"Los Angeles",90004,nL0w7BufJ9XypqW6hDFfgg,34.0761426146465,-118.28815735092383,mexican,Mexican,NA
+"Tacos Hernandez",1,4.0,"Los Angeles",90018,W6-CEhGJi_FD4nbvSC2kig,34.0324863878844,-118.335625110004,tacos,Tacos,NA
+"El Comal",62,4.5,"Los Angeles",90029,2a_V53w2gTBVdHv72sSWOg,34.09105,-118.30819,mexican,Mexican,NA
+"Lupita's Meat Market",34,4.0,"Los Angeles",90018,pfqo5iTmjoAziouSd3hT7A,34.0328449,-118.3055816,meats,"Meat Shops",NA
+"Taqueria Alba",1,4.0,"Los Angeles",90016,ukAEHHq0wMcX_cLfBwxOvA,34.032392,-118.33618,tacos,Tacos,NA
+"Tacos El Paizin",1,5.0,"Los Angeles",90004,Xa6DGs26l0JFUGvXWTfPvw,34.0738955,-118.2857638,foodstands,"Food Stands",NA
+"Tacos El Patio",55,4.0,"Los Angeles",90029,QFVWl3uCiQuixPbhI2vOCg,34.09208,-118.30956,mexican,Mexican,NA
+"Paco Tacos",1,1.0,"Los Angeles",90029,w0LT4jZx9WDJoMO2bniBkw,34.092082,-118.309568,mexican,Mexican,NA
+"Escuela Taqueria",560,3.5,"Los Angeles",90036,TZKxO09nCJlh6sBNUI4QRg,34.076334017803525,-118.3558001527599,mexican,Mexican,NA
+"Taqueria of Hollywood",88,4.5,Hollywood,90038,itRbyolX26ukjA-me2SJaw,34.0908587498275,-118.337643320946,mexican,Mexican,NA
+"CJ's Cafe",619,4.0,"Los Angeles",90019,H7O2ZZ5UdMXctpnK099CNw,34.04927,-118.35761,mexican,Mexican,NA
+"Taqueria Y Pupuseria El Savoy",21,4.5,"Los Angeles",90006,XWChlhVPLnfspXKUE4IiMg,34.0553183,-118.2827283,mexican,Mexican,NA
+"La Numero Uno",487,4.5,"Los Angeles",90038,f2V2OzCi0eNe9I-XnJOuwg,34.0938088,-118.3268092,mexican,Mexican,NA
+"El Grullense",105,4.5,"Los Angeles",90006,Xi_Vy7o_zixMFb21vH0tDw,34.047,-118.28618,mexican,Mexican,NA
+"El Taurino",2173,3.5,"Los Angeles",90006,KMZKgZCy6jJ3vbP_XL8rHA,34.051414,-118.283775,tacos,Tacos,NA
+"Taco Bell",37,1.5,"Los Angeles",90016,ZdBTD32tyK4cUII-OaNMyw,34.03092,-118.33469,mexican,Mexican,NA
+"RJM Mexican Grill",18,5.0,"Los Angeles",90019,WMpfkmDaKMcRb7wE77CYWQ,34.04477267,-118.3553305,juicebars,"Juice Bars & Smoothies",NA
+"Mi Teresita Taco Truck",80,4.5,"Los Angeles",90029,5vGerGMy1ycaa_Z0hgVGqg,34.0925834,-118.3090551,foodstands,"Food Stands",NA
+"El Matador Taco Truck",186,4.0,"Los Angeles",90028,R8rEnVictkK7nULV4VTA1w,34.092781152522,-118.309179705424,foodtrucks,"Food Trucks",NA
+"El Pollo Loco 2801",2,1.5,"Los Angeles",90016,rMR4emJ9FUWme_8lbw53pA,34.03093,-118.33534,mexican,Mexican,NA
+"El Pollo Loco",125,1.5,"Los Angeles",90016,jWKxZ5CbJWd-Wjgu2wNLLA,34.03095048035552,-118.33543679625188,hotdogs,"Fast Food",NA
+"El Pollo Loco",95,3.0,Hollywood,90038,Amq_cWW4GNOX7zonCn5Tvw,34.0941445623016,-118.32639715153789,hotdogs,"Fast Food",NA
+"Doomie's NextMex",292,4.0,"Los Angeles",90038,CMDaIdcwKgiNIA7XmrBErg,34.094077,-118.32737,mexican,Mexican,NA
+"Mana Burgers",9,2.0,"Los Angeles",90018,FFUF5z6XwyAyx_xxHRHQgQ,34.028777,-118.317258,burgers,Burgers,NA
+"Tacos El Chido",24,5.0,"Los Angeles",90038,3wVdcgjq0E911meOwNdDlA,34.0906362821706,-118.340294478524,streetvendors,"Street Vendors",NA
+"El Corredor",12,4.5,"Los Angeles",90007,MgiWWWP6oz7RhuQe6cV0fw,34.03943,-118.29182,mexican,Mexican,NA
+"Rincon Taurino",4,3.0,"Los Angeles",90006,Ssxh5pMQpoZBaq5qwPfiSA,34.0512347,-118.2832653,mexican,Mexican,NA
+"El Tapatio Taco Truck",5,3.5,"Los Angeles",90189,XcoZoSfoop9V2Q12fZsS2Q,34.04121,-118.35281,mexican,Mexican,NA
+"El Kamazutra",1,5.0,"Los Angeles",90029,1-Lfz-EHjnG50KdnTPTv3A,34.083756,-118.291746,mexican,Mexican,NA
+"Pescado Mojado Operations",2,5.0,"Los Angeles",90057,EAs1eWSS36gl6SFV6zUU8A,34.06189,-118.28132,mexican,Mexican,NA
+"Taco Stand",3,4.5,"Los Angeles",90057,vjSpFTqr1_xUMdA0giBslA,34.056272,-118.281718,streetvendors,"Street Vendors",NA
+"Tacos Al Pastor",119,4.0,"Los Angeles",90029,AfjDejIQnCOhFFMxZFWExQ,34.09105,-118.30227,mexican,Mexican,NA
+"Northgate Market",85,3.5,"Los Angeles",90006,5UpYCyRGhBkXhP2UhnK8tw,34.0528,-118.2826,grocery,Grocery,NA
+"Pepe's Taco Truck",8,3.5,"Los Angeles",90016,h7ue3n4jj8_VWMiSMkOnbw,34.032706,-118.341747,foodstands,"Food Stands",NA
+"Taqueria Los Anaya",1318,4.5,"Los Angeles",90016,6Dd4kTDiikEB3wQp___0fA,34.0327911,-118.3417282,mexican,Mexican,NA
+"Que Ricos!",144,3.0,"Los Angeles",90029,2h9de69E9KsUSYbf26ENSw,34.08392,-118.29149,mexican,Mexican,NA
+"El Granjero Cantina",83,4.0,"Los Angeles",90036,7RJAk85utbsK5OEvF5YHjQ,34.07184330505227,-118.35989991240119,mexican,Mexican,NA
+"El Nica Restaurant",9,2.5,"Los Angeles",90006,74R5b_QwlCqWPGLW9vlH6g,34.0471451,-118.2846733,mexican,Mexican,NA
+"Carmen's taco's",1,5.0,"Los Angeles",90016,magdCZxMRVBfHyNF8oW3og,34.0326221555033,-118.342037983239,newamerican,"American (New)",NA
+"Cactus Mexican Cuisine",114,3.0,"Los Angeles",90028,nIxiVHBdelc3_TN-5vEbrw,34.095146397649,-118.326344713569,mexican,Mexican,NA
+"Tres De Asada Mexican Grill",144,4.5,"Los Angeles",90016,K0gvGGq4sDwrKCiT9aGL1g,34.02973,-118.33534,mexican,Mexican,NA
+"Happy Taco",481,4.0,"Los Angeles",90006,Ij1S9QX1QWDVwJLBcWiejQ,34.0470681,-118.2843635,mexican,Mexican,NA
+"Trejo's Tacos - Farmers Market",180,3.0,"Los Angeles",90036,5k6qIvAmgC_YSqNMqtjmfQ,34.0722795,-118.3602751,tacos,Tacos,NA
+"Antonio's Restaurant",310,3.5,"Los Angeles",90046,UFiRc5ILf5HCuJmuDvrnWg,34.0833625793457,-118.352798461914,mexican,Mexican,NA
+"Jack in the Box",74,2.0,"Los Angeles",90036,XMC5H4lxoBURCn26zVmH3A,34.0680261545463,-118.36170360446,burgers,Burgers,NA
+Taco-Ala-Carte,5,5.0,"Los Angeles",90036,CgeX5RwDtI5KM9iTrxWRMA,34.058219,-118.362296,mexican,Mexican,NA
+"Umbrella Taco",48,4.5,"West Hollywood",90046,v5-Y2MYiHYaM4khqjkW5Ng,34.083862,-118.3526985,tacos,Tacos,NA
+"Jack in the Box",43,3.0,"Los Angeles",90006,lSJHascqpwUwPAGJCCvRrA,34.0469379874971,-118.283770680428,burgers,Burgers,NA
+"Dona Felix Restaurant",17,4.5,"Los Angeles",90019,7lCeI6OjDH52LKmzB2B50g,34.0443974,-118.3576614,mexican,Mexican,NA
+"Armando's Hot Food",24,4.5,"Los Angeles",90028,J3DZJIuPr59Hd4fSlVv18A,34.09462,-118.30954,mexican,Mexican,NA
+"Frank's Restaurant",302,4.0,"Los Angeles",90036,4SLTCmpTujSGs1lPaEtKNQ,34.07033,-118.36171,mexican,Mexican,NA
+"El Rancho Michoacano Market",6,4.5,"Los Angeles",90057,BQ56sBDizXfZcdBJqOT_tg,34.07108,-118.28128,mexican,Mexican,NA
+"tacos marisol",1,1.0,"Los Angeles",90028,bJHlYr5FxKwRuuqK29mrKg,34.0949850399372,-118.310465540957,tacos,Tacos,1
+"El Zarape Vine",26,4.5,"Los Angeles",90028,neJYe_OQ6jv5sy-myluwIg,34.09590244541757,-118.3265098,mexican,Mexican,1
+"Alberto's Mexican Catering",1,2.0,"Los Angeles",90029,hblPFekUPlPiiB6KtGggFA,34.0909538,-118.2987747,mexican,Mexican,1
+"La Lonchera Lunch Truck",1,2.0,"Los Angeles",90029,TqTyxZzOrntewAwr9tanpg,34.0948380691073,-118.309552225049,mexican,Mexican,1
+"Tacos Dorados",2,5.0,"Los Angeles",90029,pBIelgDRVsiebYpooAfbhw,34.0860326,-118.2915951,streetvendors,"Street Vendors",1
+"Golfo De Fonseca Restaurant",96,3.0,"Los Angeles",90029,CeRRLH6I2nPI2GnD7WyZGw,34.0861301,-118.2915951,mexican,Mexican,1
+"Virgil & Clinton Taco Stand",34,4.0,"Los Angeles",90004,adDNP8mLXrt0iqFH-hesog,34.0817962179462,-118.287116357341,streetvendors,"Street Vendors",1
+"Margarita's Mexican Food",43,4.0,"Los Angeles",90006,n6ZHNgOL0Q0V2KSyhra8MA,34.0474236,-118.2829244,mexican,Mexican,1
+"El Bronco Taqueria",22,3.5,"Los Angeles",90019,i3hJMSONx5-ju824U6I0Iw,34.044512,-118.3581,mexican,Mexican,1
+"Super Star Taco",2,1.0,"Los Angeles",90029,MAUd113GrD303GXio-ABKA,34.0908752381802,-118.29846046865,mexican,Mexican,1
+"Tacos El Banquetazo",16,4.5,"Los Angeles",90057,61L7AGg6F5s8PqsIZbEN9Q,34.0667191840426,-118.2797019,tacos,Tacos,1
+"Chipotle Mexican Grill",221,3.0,"Los Angeles",90036,fKmVkIUvWkA396hde92srA,34.0736123,-118.3610522,mexican,Mexican,1
+"Jack in the Box",77,1.5,"Los Angeles",90029,Q9Jm4GpW-UD-ikyARide0g,34.0863645929177,-118.291424363852,burgers,Burgers,1
+"Conchitas Tacos",3,5.0,"Los Angeles",90057,dT5CXvLb1sq7BdnmDTVHdw,34.0610809326172,-118.277473449707,tacos,Tacos,1
+"Mercado Los Angeles",1264,4.0,"Los Angeles",90048,phMPgmi6-yh3Qs_PRbTT1g,34.0715151,-118.3622707,mexican,Mexican,1
+"Carnitas Michoacan",25,3.5,"Los Angeles",90006,6WUcBO04hnFWPpwe760s9A,34.0432218137178,-118.285117065646,mexican,Mexican,1
+"Mariscos Maria's Restaurant",175,3.5,"Los Angeles",90007,Me8tzKp1WhKinnd44OvQ4A,34.03588,-118.2919,mexican,Mexican,1
+"Jack in the Box",82,2.0,Hollywood,90038,sf8Osn5LauYdKT-kQdB5hw,34.0938337,-118.338910192251,burgers,Burgers,1
+"El Asado",5,4.0,"Los Angeles",90007,5wgap_ZWEyqYTOWUpXjShg,34.0326235447519,-118.296403549612,mexican,Mexican,1
+"La Catrina Restaurant",3,3.5,"Los Angeles",90007,S59P8lY2wDS9zsUbGKIrIw,34.032494,-118.296394,mexican,Mexican,1
+"King Taco",1066,3.5,"Los Angeles",90006,hcUxpi--BTuVNEMttimC7Q,34.04675,-118.28247,mexican,Mexican,1
+"Mariscos Maria Catering Truck",3,3.5,"Los Angeles",90007,SqTwG2uwKyyHcKSYB3ea6A,34.03537,-118.29187,catering,Caterers,1
+"Chipotle Mexican Grill",293,2.5,"Los Angeles",90028,qD5RQ903D6B4eOhxTFUY5Q,34.0973468743117,-118.326365647239,mexican,Mexican,1
+"Lo Puebla Tacos",1,5.0,"Los Angeles",90029,w45sCQBVWll25b96K1f1ig,34.0835943828167,-118.286828348553,foodstands,"Food Stands",1
+"Sandras Antojitos Taco Truck",5,2.5,"Los Angeles",90028,LQO6Fkhf7dfTGWQcHf18ug,34.0967251126747,-118.311002142217,foodtrucks,"Food Trucks",1
+"El Chino Restaurant",11,4.0,"Los Angeles",90057,69yBbwOQNCltLsa_wNW7ug,34.055332,-118.2784863,mexican,Mexican,1
+"Balle Oaxaqueno",1,4.0,"Los Angeles",90018,-NnqFmO9ay3cpAWx8f96nw,34.0252838134766,-118.320777893066,mexican,Mexican,1
+"El Valle Oaxaqueno",12,3.0,"Los Angeles",90018,WJPcQQuB6aKzDiEybwDMrw,34.02528,-118.32077,mexican,Mexican,1
+"El Flamin' Taco - Los Angeles",26,3.5,"Los Angeles",90028,YQsERvSEm65F4lujOIwJiQ,34.0977699068154,-118.324053748902,foodtrucks,"Food Trucks",1
+"Papi Tacos & Churros",500,4.0,"Los Angeles",90018,vdA6RxwC8wrCrza0FSAt-w,34.02531,-118.32445,tacos,Tacos,1
+"El Pollo Loco",45,2.5,"Los Angeles",90027,tYdct_up-54r4buGNXftEw,34.088179403331935,-118.29152364413937,hotdogs,"Fast Food",1
+"Mission Cantina",536,3.5,Hollywood,90028,q25eeQagIYoBk823qnxOSw,34.09790143586933,-118.31934534344819,mexican,Mexican,1
+"Jessie's Camarones Restaurant",156,4.5,"Los Angeles",90007,R4xJYCYy6JR_elxvn_8SNw,34.0328949,-118.2938062,seafood,Seafood,1
+"Tacos Ochoa's",1,1.0,"Los Angeles",90007,t6PSW9gSciyFDoue0DKexg,34.0698455685738,-118.278330154717,mexican,Mexican,1
+"Tacos Ochoa's",52,4.5,"Los Angeles",90057,MpiVkLf7iYML1eAtnzAsaw,34.0698272385403,-118.278321437538,mexican,Mexican,1
+"Benito's Taco Shop",374,3.5,"Los Angeles",90048,YAFu4XlShq-Cy-kAWPvXeA,34.07581,-118.36228,mexican,Mexican,1
+WILDBIRD,114,4.5,"Los Angeles",90028,ikZRDDD89m54GEOgGfuFzA,34.09774,-118.32811,chickenshop,"Chicken Shop",1
+"Baja California Tacos",28,4.0,"Los Angeles",90057,NRGZRCx-GjQOrOuH_UzL3g,34.0546625,-118.2776965,seafood,Seafood,1
+"The Street Deli Truck",1,1.0,"Los Angeles",90028,LbqjQCb1TXVsMp-dswtt3w,34.09838921999221,-118.3233317,tacos,Tacos,1
+"El Pulgarcito",9,2.0,"Los Angeles",90057,5O_EoeXreaX4guofEUDVpw,34.0556447,-118.2775288,salvadoran,Salvadoran,1
+"El Delfin Jr",4,3.5,"Los Angeles",90006,dylfqIcEI8uWxlJ2-chWVg,34.053282,-118.2779857,foodtrucks,"Food Trucks",1
+"El Pollo Loco",60,2.0,"Los Angeles",90006,20-KWchW7q2cLocFReX6Cw,34.05079730902775,-118.278740829537,hotdogs,"Fast Food",1
+"La Flor De Yucatan Catering & Bakery",129,4.0,"Los Angeles",90006,GH7TrdHl9c8GcuAJPI5DHQ,34.0415458679199,-118.283851623535,bakeries,Bakeries,1
+"Tacos Esquinita",1,5.0,"Los Angeles",90057,UzZBy-_z6ZlgZQ96Z2eC_A,34.054905,-118.277428,foodtrucks,"Food Trucks",1
+"Pollo Mundial",62,4.0,"Los Angeles",90057,CuHDJ4h34T_gaMq50qPY3g,34.0545871,-118.2774434,mexican,Mexican,1
+"Taquizas A Domicilio",3,4.5,"Los Angeles",90006,CF82U6nnlOA5G-xTSHyaeA,34.056025,-118.277129,mexican,Mexican,1
+"El Zarape",775,4.0,"Los Angeles",90029,Osce6shPInsQLAhtJEJnng,34.09544,-118.30256,mexican,Mexican,1
+"La Barca Restaurant",944,4.0,"Los Angeles",90007,FBRxoQSWtziiU_A5tscVGA,34.0339201576781,-118.29148504989,mexican,Mexican,1
+"Lucy's #1",37,3.5,"Los Angeles",90007,iLCmz6_7FfaWSx-DjyLBrg,34.039722442627,-118.284934997559,mexican,Mexican,1
+"Jack in the Box",40,2.5,"Los Angeles",90007,_bSPl_lu2S0ySfkwfEf97g,34.0334,-118.2919,hotdogs,"Fast Food",1
+"Tocaya - Hollywood",464,4.0,"Los Angeles",90028,JAcMCVZqG79ZC3nY10p0rA,34.09762,-118.33304,mexican,Mexican,1
+"Taqueria El Charrito",65,4.5,"Los Angeles",90029,NiEGJZ6HiUyq5vRgFCWgog,34.0859823,-118.2870226,mexican,Mexican,1
+"Habibi Madness",20,4.5,"Los Angeles",90028,xN4H05V40bS3g9UNWcF6Nw,34.09875411057616,-118.32718517665018,foodtrucks,"Food Trucks",1
+"California Grill Restaurant",97,4.5,"Los Angeles",90029,cJ5bhdV-9co0BVByR34jgA,34.08592,-118.28663,mexican,Mexican,1
+"Taco Bell",164,2.5,"Los Angeles",90057,7RcIQtbkW2J3-Fz1iUVI_A,34.069516,-118.277028,hotdogs,"Fast Food",1
+"Taco Bar",51,4.5,"Los Angeles",90019,2YC93fgtdgMvg2Of_R2w2Q,34.051285,-118.36507333,tacos,Tacos,1
+"Tacos Don Manolito",68,4.5,"Los Angeles",90028,Ph7ZCgvo3zqMyKkznAKuew,34.098333,-118.31131,tacos,Tacos,1
+"Taco Vega",119,4.5,"Los Angeles",90036,OHhw9gTjneBpaVSm243V0g,34.07979,-118.36128,vegan,Vegan,1
+"Tacos El Unico",178,3.5,"Los Angeles",90007,eotbWLCgZJ0Z5wKhSFiOww,34.0328849,-118.2911562,mexican,Mexican,1
+"Taco's Al Carbon",1,5.0,"Los Angeles",90027,WzR2n2LEW6YseNQLNHPKig,34.0979751,-118.30784,tacos,Tacos,1
+"Ricky’s Tacos",3,5.0,"Los Angeles",90029,NKxcl9xRu018FIH6UVrfuQ,34.0908825,-118.2917608,foodstands,"Food Stands",1
+"SocialEats 1542",6,4.0,"Los Angeles",90028,IsY57wooUHHptdg67N7J8w,34.0993,-118.32935,tacos,Tacos,1
+"Leo's Tacos Truck",357,4.0,"Los Angeles",90028,ra8QFgeKZYNRaYABohgHNg,34.0986671447754,-118.30989074707,foodtrucks,"Food Trucks",1
+"El Tapatio",6,5.0,"Los Angeles",90006,lJQnqxLqHIgQwq6nuOgQTA,34.042715,-118.28114,mexican,Mexican,1
+"La Esquinita Baja Grill",27,5.0,"Los Angeles",90006,7Qgag1l5SrtvSJTHLBm_AQ,34.042786,-118.281284,seafood,Seafood,1
+"Wendy's Taqueria",7,5.0,"Los Angeles",90006,HLnYvvfRn-213l4ETPhQww,34.05215,-118.27651,foodtrucks,"Food Trucks",1
+"Trejo's Cantina - Hollywood",650,3.5,"Los Angeles",90028,-mq80_a6ARtCHKpj_76SaA,34.099443,-118.3290012,mexican,Mexican,1
+"Tacos Ochoas",1,4.0,"Los Angeles",90027,nYpa71bQKfWnF_p0Ec9eEA,34.09768,-118.304825,streetvendors,"Street Vendors",1
+"Man vs Fries",7,3.0,"Los Angeles",90028,rqWXZjW72L7PHwip0WZGBw,34.09988893034104,-118.32691729527805,fooddeliveryservices,"Food Delivery Services",1
+"Tacos Dalis",1,2.0,"Los Angeles",90007,wJDxBYIETZR2ciitaH7s2Q,34.031897520353,-118.291442804039,foodtrucks,"Food Trucks",1
+"El Pollo Loco",114,2.0,"Los Angeles",90027,wOpdFltHemP5tCAEx6l4kg,34.0983728375248,-118.30679115609266,hotdogs,"Fast Food",1
+"Don Taco Y Su Familia",8,5.0,"Los Angeles",90019,ydoJH02mP0-WebcufJJnsw,34.05074,-118.36614,tacos,Tacos,1
+"El Pollo Loco",35,2.0,"Los Angeles",90057,jD5aleufUJF7jxy6dKkxMQ,34.0605730298415,-118.274482246558,hotdogs,"Fast Food",1
+"Sabor Mexicano",12,4.5,"Los Angeles",90015,vsdnk0CZ0j67HrpEfXfwZA,34.0423560647062,-118.280619902814,mexican,Mexican,1
+"El Pajonal Restaurant",54,3.0,"Los Angeles",90029,EPEqw5ow_PkZDXeMZA5_QQ,34.09193,-118.29207,mexican,Mexican,1
+"Pollo Pillo",4,2.5,"Los Angeles",90057,G1KDJaD7_VusrJC8r3vhFQ,34.0605717013283,-118.274425183714,mexican,Mexican,1
+Ka'teen,70,4.0,"Los Angeles",90028,dnYh7aAv1O5RwseWGdLOKQ,34.09948,-118.33167,mexican,Mexican,1
+"Astro Burger",793,4.0,"West Hollywood",90046,Ot60d9BaHuwhBBCmr7Js2g,34.091,-118.35245,burgers,Burgers,1
+"Rico's Tacos",121,4.5,"Los Angeles",90019,VT9HZ8mGA6V7S2Zq7XR1XQ,34.051864,-118.367057,streetvendors,"Street Vendors",1
+"Rodeo Mexican Grill",335,3.5,"Los Angeles",90015,dTs9nZSt2ht9-5T9yeIoiA,34.0502011713576,-118.276079158742,mexican,Mexican,1
+"Rincon Oaxaqueno Restaurant",128,3.5,"Los Angeles",90027,slfI8TAtrJYFuQ5qcjs7Bg,34.0995,-118.30896,mexican,Mexican,1
+"EL COMPA TINO",1,5.0,"Los Angeles",90018,hCBOGp3UcrnAOrUbToezYQ,34.024885329,-118.3043841,mexican,Mexican,1
+"Antojitos LA Cosa Nuestra",14,3.0,"Los Angeles",90007,2tMD14vi0vikjKCDklskjg,34.030969037718286,-118.29157676513837,foodtrucks,"Food Trucks",1
+"Taco Stand",37,5.0,"Los Angeles",90029,spQZx3psKko8IKYbjb5V8g,34.090389251709,-118.288986206055,streetvendors,"Street Vendors",1
+"ABC Express",14,4.0,"Los Angeles",90057,q52nCmfdeCijzGSEhSDtBQ,34.0552165,-118.2744046,chinese,Chinese,1
+"El Carmen",983,4.0,"Los Angeles",90048,rX4XXEwzSea-EJxuMYAFvw,34.0720873,-118.367282,mexican,Mexican,1
+"Beijing Bowl & Mexican Food",5,3.0,"Los Angeles",90057,ZMypI2BJKoQkHTYzXTXTeQ,34.0589485,-118.2740479,mexican,Mexican,1
+"Las Perlas",21,4.0,"West Hollywood",90046,D4Te-IVE3xw5l02OAKNIjA,34.09091575503826,-118.35322972557239,cocktailbars,"Cocktail Bars",1
+"Las Glorias Del Buen Comer",233,4.0,"Los Angeles",90026,Q_PILb8JeSm5CWh47DSTyw,34.07859,-118.27815,mexican,Mexican,1
+"Moderno Cocina",28,5.0,"West Hollywood",90046,gp4dXraq09Bv-v19Dn0k9w,34.09104583379495,-118.3532488,tacos,Tacos,1
+"Sabor Latinos",18,4.0,"Los Angeles",90029,Po3f7phyLzP5yWCQgIQP1w,34.0953056,-118.2963928,salvadoran,Salvadoran,1
+"Taco Stand",3,3.0,"Los Angeles",90029,s9ZoWNE4cM1xcYuatXKRVw,34.0889358520508,-118.286659240723,mexican,Mexican,1
+"Más Veggies Vegan Taqueria",16,4.0,"Los Angeles",90028,ATwARsulZfuIsPcJbe9eKA,34.1007080078125,-118.32813262939453,fooddeliveryservices,"Food Delivery Services",1
+"Cemltas Tlayudas",1,4.0,"Los Angeles",90028,LaSNmxcmmw9DxyhvTi2_QQ,34.09979,-118.32721,foodtrucks,"Food Trucks",1
+"Braulio's Tacos",1,5.0,"Los Angeles",90027,XLoMhA2kGg2kZezajVWtqQ,34.0982917769593,-118.302794918418,streetvendors,"Street Vendors",1
+"Restaurante 8",1,3.0,"Los Angeles",90057,TUuzDMxtQ7BQHjYdKeGg4A,34.0552778092902,-118.273872317964,mexican,Mexican,1
+"El Chuchito Loco",1,5.0,"Los Angeles",90057,4usxYovzIUcggvMABsNnGg,34.055247,-118.273803,mexican,Mexican,1
+"Gringo’s Tacos & Birria",15,4.5,"Los Angeles",90028,0HcvHkADpfNakQV_LAFq2Q,34.10131,-118.32468,foodtrucks,"Food Trucks",1
+"Dos Burritos",345,4.0,"Los Angeles",90028,bYerjihViyhmTbL9plr2EA,34.10127,-118.32762,mexican,Mexican,1
+"El Ostion",4,4.0,"Los Angeles",90015,eEje4H6DbVo1aw73-3Nt_Q,34.03884,-118.28123,foodtrucks,"Food Trucks",2
+"Jack in the Box",54,2.0,"Los Angeles",90057,4NudjD2ZGnQ3WoFKbLnL-g,34.0584593544661,-118.273010998964,hotdogs,"Fast Food",2
+Flaco.,74,4.5,"Los Angeles",90028,MBAOvR5pxpvTUhTY7Ni92w,34.101627,-118.313252,tacos,Tacos,2
+"Tacos Super Gallito",1,1.0,"Los Angeles",90028,ATXa9h1q59TTnwdp14vg7w,34.10178,-118.32691,foodtrucks,"Food Trucks",2
+"Los Poblanos",5,4.0,"Los Angeles",90007,TrK5uB-MxYaTt0CBJXepRw,34.0256598,-118.29829,mexican,Mexican,2
+"Tacos Gavilan",264,3.5,"Los Angeles",90028,eewHaQ-cxCVW0Kc5OWZb7Q,34.09771,-118.3438,mexican,Mexican,2
+TasteBuds,1,5.0,"Los Angeles",90046,H-Cjxvy9w901G2tbI1tX0A,34.08554,-118.36114,newamerican,"American (New)",2
+"Lucy's Drive Thru",153,3.0,"Los Angeles",90015,bOI6RHtkP0rMre0H2hbMkw,34.0441970825195,-118.276786804199,mexican,Mexican,2
+"Oaxaca’s Flame",11,4.0,"Los Angeles",90029,3UfI4A1xT1V6uVztF9NVQg,34.09091885495748,-118.28711868996359,foodtrucks,"Food Trucks",2
+"Zamora Brothers",100,4.0,"Los Angeles",90015,l3xAzuStNkG6yuYyqB5D0A,34.04473,-118.27638,meats,"Meat Shops",2
+"Las Ranas Cafe",84,4.0,"Los Angeles",90016,tyUTeOQWaW5TuC2_ov6H3g,34.03272,-118.356504,mexican,Mexican,2
+"Sharky's Woodfired Mexican Grill",245,4.0,"Los Angeles",90028,ELVjiXuScL94Sw05HTaWqg,34.10212127,-118.32921666,mexican,Mexican,2
+"Los Burritos",263,3.5,"Los Angeles",90028,dPWTy6U56fL8Vis7w3MTDw,34.1017249,-118.3317274,mexican,Mexican,2
+Te'Kila,1092,4.0,"Los Angeles",90028,kr9RZATtNwJznY9TaMexUA,34.101795,-118.3323928,bars,Bars,2
+"Todo Bien Tacos De Birria",153,4.5,"Los Angeles ",90028,yYW361SgSPcTT8hjbgRjIg,34.0985329,-118.3435667,tacos,Tacos,2
+"Tacos Guadalajara",5,4.5,"Los Angeles",90016,hsUJ4rae4I7HGX--H7nmfQ,34.03194,-118.35602,foodtrucks,"Food Trucks",2
+"Sierra Bonita Mexican Grill",1,1.0,"Los Angeles",90046,nQCo4qMYgbxALUZ-EZzTkw,34.085984,-118.361701,fooddeliveryservices,"Food Delivery Services",2
+Madre,192,4.0,"Los Angeles",90046,xmmtvpuxZDWe-9tB2e7NBQ,34.086013,-118.361719,mexican,Mexican,2
+"Nacho Lords",3,1.5,"Los Angeles",90046,uW7d-AdnMFWKH-nQ3SlLIg,34.085984,-118.361701,fooddeliveryservices,"Food Delivery Services",2
+"Shawy’s House",1,5.0,"West Hollywood",90046,d3DB5BeugZNBLBzatYMzUA,34.09820930449321,-118.34462563786938,tacos,Tacos,2
+"Plancha Tacos",827,4.0,"Los Angeles",90048,mLQ8UtRY-NvMG-PR3jm-Yg,34.072365,-118.369731,mexican,Mexican,2
+Foodland,11,3.5,"Los Angeles",90017,-_N_HCL-LI_qzbWeygzYaQ,34.052803,-118.272301,mexican,Mexican,2
+Juanita's,9,4.0,"Los Angeles",90017,jgbQ94c4sEOts8ZqT2LvSw,34.0527568740033,-118.272432563691,mexican,Mexican,2
+"Juanita's Restaurant",2,5.0,"Los Angeles",90017,y_At5F3p3eZ4MwkDvPt38Q,34.052851,-118.272433,mexican,Mexican,2
+"Tacos Listo",62,4.5,"Los Angeles",90007,tAXE0EVS8mJPXhG2HWf-Yg,34.0279886071411,-118.291923,mexican,Mexican,2
+"Baja Beach Bar",125,3.5,"Los Angeles",90028,3g_p37InUUwMSYRqSpcSEA,34.1017149,-118.3338074,sportsbars,"Sports Bars",2
+"Mayan Restaurant",1,5.0,"Los Angeles",90057,GssxC6G5USJpJwknT03pIg,34.05821752,-118.27139574,latin,"Latin American",2
+"Mr. Tempo Cantina",4,5.0,"Los Angeles",90028,I6f8CpgqlaqWL6ThaPTd2A,34.10138,-118.33672,mexican,Mexican,2
+"El Parian Restaurant",224,4.0,"Los Angeles",90015,p0WbwwHC6DyhAx0ELJQXRw,34.043895152157845,-118.2758172,mexican,Mexican,2
+"The Drunken Burrito",27,5.0,"Los Angeles",90028,ml2zE3ybWyJmQlSKsf1SZA,34.10181294224333,-118.33488602578164,mexican,Mexican,2
+"Los Burritos",299,2.5,"Los Angeles",90027,f0YvYgdEay1krnl4oGcjiQ,34.098357,-118.297015,mexican,Mexican,2
+"The Happy Tacos",10,4.0,"Los Angeles,",90006,b3T-c4gR4i7n0c8uj9r3qw,34.10243,-118.30946,foodtrucks,"Food Trucks",2
+"Cabo Cantina",831,2.5,"Los Angeles",90028,vAcFb2r8BwaAgPSfR25q0Q,34.101936,-118.335593,mexican,Mexican,2
+"El Burrito Panzon",80,4.0,"Los Angeles",90057,GBqQv1m787XpGy8qyoEHYQ,34.0666063,-118.27091277279303,mexican,Mexican,2
+"Chicas Tacos",72,4.5,"Los Angeles",90048,Nc4C2tpzKPWGw3PH2lioJg,34.07258,-118.37052,mexican,Mexican,2
+"Tacos Palacios",6,5.0,"Los Angeles",90028,QSvKxvGNNxtbtuLW64EwMg,34.101353,-118.338898,foodtrucks,"Food Trucks",2
+"Veteran tacos",2,5.0,"Los Angeles",90015,ERlFR2o6Kohzc76xXnC1Rg,34.043606,-118.275203,streetvendors,"Street Vendors",2
+"Tacos Al Puro Putaso",1,1.0,"Los Angeles",90015,qqATnY_Jk1ACS1OfMONrcQ,34.043542,-118.27529,foodtrucks,"Food Trucks",2
+"Tacos & Tamales",7,4.5,"Los Angeles",90035,yRP8Zscume4n8pBDrTIcKA,34.0521354675293,-118.371482849121,foodtrucks,"Food Trucks",2
+"Pupusas Genesis #2",4,2.5,"Los Angeles",90015,1MhxrnvW6tda0MbP-rcqbg,34.04392,-118.27461,salvadoran,Salvadoran,2
+"Taco Bravo",28,4.5,"Los Angeles",90015,vaKz8-v2qPByFOoRAOuM_Q,34.0431480407715,-118.274345397949,mexican,Mexican,2
+"Anderson’s Grill",4,4.0,"Los Angeles",90028,8UAOBwi7DRv63WZD_ne20w,34.1039748321913,-118.330631180291,foodtrucks,"Food Trucks",2
+"Sunset Tacos",46,4.5,"Los Angeles",90027,0l5DC17iMe8TMAVxg_LwaA,34.09740231450387,-118.2920819,mexican,Mexican,2
+"El Charro Restaurant",128,3.5,"Los Angeles",90017,X0uDdyc0qh1wRwi6STzC2Q,34.0572875,-118.2694768,mexican,Mexican,2
+"Levon's Quality Food",15,3.0,"Los Angeles",90027,iZVlDZeqxCXGQpyS08LiiQ,34.0981332475309,-118.293273746967,foodtrucks,"Food Trucks",2
+"23rd Street Cafe",463,4.0,"Los Angeles",90007,1EMNJAZpx5tKT5DkzCtQgw,34.0339369301652,-118.280889987946,indpak,Indian,2
+"Tacos y Papas",4,5.0,"Los Angeles",90015,ON7yVtrq6MCjBLrbZlXCxw,34.0463998817235,-118.272158056498,tacos,Tacos,2
+"Baja Hollywood",6,2.5,"Los Angeles",90028,AW8oNFL0ZDyG7Y_ua8NOgw,34.102251,-118.34017,mexican,Mexican,2
+"Tacos y Birria La Unica - Mid City",6,5.0,"Los Angeles",90019,HLHIHSsbYJENwn6ZLLtc6g,34.04126,-118.36784,tacos,Tacos,2
+"Cabo Wabo Cantina",627,3.5,"Los Angeles",90028,-uh8qbFNBVSrZXKrOxIKCQ,34.102726,-118.33947,bars,Bars,2
+"Ramona's Mexican South LA Deli 4",165,2.5,"Los Angeles",90018,K8oXiDcgAn0fp3KpzI4CIQ,34.0189995,-118.3338232,mexican,Mexican,2
+"La Villita Cantina",188,4.0,"Los Angeles",90028,ON02hjHg6LbGbq00Ei4S2w,34.10539869999999,-118.3188441,mexican,Mexican,2
+"Tortas Guadalajara",5,3.0,"Los Angeles",90016,zLy7JoXsqL66N99Cxk31XQ,34.0284004211426,-118.354179382324,mexican,Mexican,2
+"5 y 10 Tacos",1,5.0,"Los Angeles",90016,Cu8daglKN-vaDxX22nZ7tQ,34.029380798339844,-118.35164642333984,foodstands,"Food Stands",2
+"Beto's Tacos",46,4.0,"Los Angeles",90016,qFAJF1nq74CtPk0MXpCw3A,34.029380798339844,-118.35164642333984,tacos,Tacos,2
+"Mexican ChuckWagon Fusion",18,4.5,"Los Angeles",90016,VosxX-lFf2TCZFbydqjufg,34.0284004211426,-118.354179382324,foodtrucks,"Food Trucks",2
+"Los Animales Food Truck",4,5.0,"Los Angeles",90007,ap7asvMIygniUV3VeV8CuA,34.0293617248535,-118.285255432129,mexican,Mexican,2
+"Jimmy Nachos Restaurant",1,5.0,"Los Angeles",90048,D1DyVLbr4MFP46vxfZ6pyQ,34.07219696044922,-118.37454986572266,fooddeliveryservices,"Food Delivery Services",2
+"Los Alcatraces Restaurant",30,4.0,"Los Angeles",90018,c1zk8OR8ipX37AsRfrxXqA,34.018122330308,-118.308972045779,mexican,Mexican,2
+"El Compadre",1741,3.5,"Los Angeles",90046,1ZzhJds84q831qpnJC-ZFA,34.09769,-118.35205,mexican,Mexican,2
+"Taco de Vida",1,3.0,"Los Angeles",90027,U15q0aq8vuPu2g8bx-zsTQ,34.097626058055674,-118.29010637766162,mexican,Mexican,2
+"La Guadalupana",55,4.0,"Los Angeles",90017,gZEUgEzxGosPd-qGQGNXBQ,34.0563267,-118.2679035,mexican,Mexican,2
+"Mata Hambre",2,5.0,"Los Angeles",90026,Hgs-tay6CHeTG040At6ceQ,34.08439,-118.27472,popuprestaurants,"Pop-Up Restaurants",2
+"El Ruso",164,4.0,"Los Angeles",90026,6lL15v2PGXoAl2RBTdbDUw,34.084637828604876,-118.2749531,tacos,Tacos,2
+"El Delfin Tacos",5,3.0,"Los Angeles",90016,lkAwLRIiOm4JB7oys8BZMw,34.03247,-118.36265,mexican,Mexican,2
+"El Amanecer Restaurant",1,5.0,"Los Angeles",90026,v0hTGf0zJiXCOFHLlmE3rg,34.0839653,-118.2743149,mexican,Mexican,2
+"Los Tacos",454,3.5,"W Hollywood",90046,_F9CHvoUZvaVatlNEoO1Ww,34.0906851,-118.3631966,mexican,Mexican,2
+"El Pollo Loco",173,1.5,"Los Angeles",90026,8SeY_Qnzuk1phcnqHGl1gA,34.06988474965309,-118.2679634,hotdogs,"Fast Food",2
+"Tacos Neza",127,4.5,"Los Angeles",90046,Bj4YOeGdsU8XU5E6FEv6HA,34.098264,-118.352986,tacos,Tacos,2
+"Los Brothers Food Truck",2,5.0,"Los Angeles",90017,IbqfeDJiwwJK02yj2AkGiw,34.053969,-118.26768,foodtrucks,"Food Trucks",2
+"Last Call Tacos",19,5.0,"Los Angeles",90026,b6PB_Dwhs6dJ0qP_kCXSvw,34.08368234260266,-118.27374443466171,mexican,Mexican,2
+"Pobres Tacos",56,4.5,"Los Angeles",90035,tV5lrb2u44UvNHxaU88X7A,34.0529853,-118.3750755,tacos,Tacos,2
+"Red Corn Taqueria",1,1.0,"Los Angeles",90015,Q3sW2douwO_MGs85wd2r8g,34.0467364,-118.269108,mexican,Mexican,2
+Diablo,830,4.0,"Los Angeles",90026,_rNLDmwV1u_D2tiZLUFmYQ,34.0850744,-118.2745083,bars,Bars,2
+"Seaside Burritos and Tacos",2,3.0,"Los Angeles",90046,IEQoU4ES7mchbieHz1_BLg,34.0982,-118.3537,fooddeliveryservices,"Food Delivery Services",2
+"Morning After Breakfast",3,2.5,"Los Angeles",90046,yO74Uy7KTOaIYYn6In4CBg,34.0982,-118.3537,fooddeliveryservices,"Food Delivery Services",2
+"Metztli Taqueria",11,5.0,"West Hollywood",90046,IPb017U65V56piqOE1T12g,34.0909914,-118.3632242,tacos,Tacos,2
+"Playita Mariscos",66,4.5,"Los Angeles",90026,ZL1KoWDnktCHz2E7PhyQfQ,34.085491,-118.274629,seafood,Seafood,2
+"Jack in the Box",92,1.5,"Los Angeles",90016,Ha5pSpSeMyBw_yNQmyRdfQ,34.0257376,-118.355204612017,hotdogs,"Fast Food",2
+"Taco Paradiso",4,2.0,"Los Angeles",90046,m7eLXWNrVqYB0gI7Uea8WQ,34.098222,-118.3538051,mexican,Mexican,2
+"Tacos Delta",638,4.0,"Los Angeles",90026,j63ipopHrhHHnoy9Ac5m0g,34.0908699035645,-118.27921295166,mexican,Mexican,2
+"Tu Madre - West Hollywood",540,4.0,"West Hollywood",90046,PLfZ1ACQRAC1bgOTzS5rBA,34.091274,-118.36317,mexican,Mexican,2
+"La Parrilla",314,3.0,"Los Angeles",90017,bmZJURPplezNsJrudYGX0w,34.05364,-118.26697,mexican,Mexican,2
+"Toca Madera - Los Angeles",2489,4.0,"Los Angeles",90048,LNb-ElJwKIXS6Lx5xdRB1Q,34.073059,-118.3749338,cocktailbars,"Cocktail Bars",2
+"Chipotle Mexican Grill",99,2.5,"Los Angeles",90048,qvBzANVIxk7PdU27YOuRwA,34.075839,-118.373959,hotdogs,"Fast Food",2
+"Del Taco",245,2.0,"Los Angeles",90029,xlFgotnLp82nyrzIMqCSUw,34.0962895,-118.2849009,mexican,Mexican,2
+"Real Patron",1,5.0,"Los Angeles",90016,DY6r0D95bZqS3n4U4P52zw,34.0355649939015,-118.366784975232,tacos,Tacos,2
+HomeState,1239,4.5,"Los Angeles",90027,ul2dT8QzauKP5Yc-q_DZ_g,34.09979,-118.29021,tex-mex,Tex-Mex,2
+"Los Burritos",7,2.5,"Los Angeles",90027,ZSS2jXFPPzipansdGBzqDQ,34.1001451,-118.2904578,mexican,Mexican,2
+"Pepe's Red Tacos",1,4.0,"Los Angeles",90007,j1UxBajSmpyhou5E_5fHKw,34.02567254163974,-118.28622804448679,tacos,Tacos,2
+"El Condor",379,3.5,"Los Angeles",90026,fl6RC6MMp-b4QZoGuAzdhA,34.0906362156233,-118.27773001045,mexican,Mexican,2
+"Taco Bell",137,2.5,"Los Angeles",90048,N19vni1V0IplU5KvZmv6tg,34.075961,-118.374675,hotdogs,"Fast Food",2
+"Taco Bell",52,2.5,"Los Angeles",90007,TsxBE0dpdbgRtjsZoYPPNw,34.022339,-118.29145,hotdogs,"Fast Food",2
+"Chipotle Mexican Grill",224,3.0,"Los Angeles",90046,qCOuHfnkqrNqsOkPxaWBAg,34.0978471129027,-118.3568997,mexican,Mexican,2
+"LA Bagels Food Truck",15,4.0,"Los Angeles",90026,PQ5HIaXsNU71btSPlp290Q,34.08002,-118.26925,foodtrucks,"Food Trucks",2
+"Baja Fresh Mexican Grill",108,2.5,"Los Angeles",90048,Fe_FRSfc-DEvHdPVybmjiQ,34.0734847,-118.3763016,mexican,Mexican,2
+"Machos Tacos",360,3.5,"Los Angeles",90027,lQUqEZ-yk9VgEw5WvY5-FA,34.101676513598,-118.291624084454,mexican,Mexican,2
+"Marielas Taco",173,4.0,"Los Angeles",90026,fiNsYM1eA1oxred22tfpjA,34.07992,-118.26904,mexican,Mexican,2
+"Tacos Bob",18,5.0,"Los Angeles",90026,rcsTEPiCJvT-f8rFBUC5Mw,34.0794074282981,-118.268593271781,mexican,Mexican,2
+"Mariscos Maria's Restaurant",134,3.5,"Los Angeles",90016,OJgoA0y3DTvfxB-4ecfuuQ,34.03217,-118.36628,seafood,Seafood,2
+"El Tarasco Taco Truck",8,5.0,"Los Angeles",90017,fKlq6Qz2GKIcW_7Ash9IEg,34.0591676,-118.2641222,mexican,Mexican,NA
+"I Love Yesi",9,5.0,Gardena,90248,5DYxlubtmLnO0XdYKyEMwQ,34.0384974,-118.2712572767862,foodtrucks,"Food Trucks",NA
+"Tacos Super Gallito",1,1.0,"Los Angeles",90015,0Da3SBRBG6A5zWHlxiEGoA,34.04613694428269,-118.2671266,tacos,Tacos,NA
+"Hola Mexican Grill",5,2.0,"Los Angeles",90048,koWVKZpXLu_t6EfKuVgC9w,34.0732544,-118.3768137,mexican,Mexican,NA
+"East Los Angeles Tacos",12,4.0,"Los Angeles",90015,lFYP-es6W-gb3FwRkA67EQ,34.046246,-118.26696,foodtrucks,"Food Trucks",NA
+"Tacos El Gallito Truck",14,4.0,"Los Angeles",90015,C4n6YHOJHAn8EK_mvdRHtw,34.0459885300524,-118.266952619158,mexican,Mexican,NA
+"Pink Taco Truck",32,3.5,"Los Angeles",90089,BJwPST0p3IFpD98enzmUEw,34.0216598510742,-118.28751373291,foodtrucks,"Food Trucks",NA
+"Tocaya - Beverly Center",236,4.0,"Los Angeles",90048,3qbABi4SwnqcUW8v9Yts2A,34.0737004077066,-118.377289534363,mexican,Mexican,NA
+"Ostioneria Colima",79,4.0,"Los Angeles",90017,WQY_GMVVaBm_Nmt-Cnk2fQ,34.059269,-118.2636108,mexican,Mexican,NA
+"Jack in the Box",62,2.5,"Los Angeles",90035,gySGayEWhYlAbvRMrXd5tA,34.0540738860913,-118.378837555647,burgers,Burgers,NA
+"City Tacos",14,4.5,"Los Angeles",90089,zNkJG9Hd74blhJ6JBIFY0Q,34.02418592122673,-118.2846440521491,mexican,Mexican,NA
+"Best Fish Taco In Ensenada",2248,4.0,"Los Angeles",90027,K3msdd0tuGwuE2fm_W94MQ,34.1010002,-118.2872851,mexican,Mexican,NA
+"Chipotle Mexican Grill",56,2.0,"Los Angeles",90017,M14UWM9ClK8NfJgOBr0rlg,34.054200666523464,-118.26337541964341,mexican,Mexican,NA
+"Armando's Lunch Truck",133,4.5,"Los Angeles",90007,4i7z1ttEkRTFlhYLtUhJiw,34.02453,-118.28347,mexican,Mexican,NA
+"Taco Stand",3,4.5,"Los Angeles",90026,9Z1AGTmhWBiYYGnUruRTjg,34.0751922376793,-118.264955277405,foodstands,"Food Stands",NA
+"Del Taco",99,2.0,"Baldwin Hills",90016,gN01F2BXNga-K3EMC6QS0Q,34.021801805798944,-118.35528241165665,hotdogs,"Fast Food",NA
+"Mariscos Jalisco",39,5.0,"Los Angeles",90035,tRxAygogz4DYWtwiY5vpqw,34.043532,-118.376178,seafood,Seafood,NA
+"Bee Taqueria",146,4.5,"Los Angeles",90016,p0sW66vtBj6OLG4QEMRpgw,34.03218,-118.36887,tacos,Tacos,NA
+Pinky’s,35,4.5,"Los Angeles",90027,ObzVtIRkNeoF2yBqGBWywg,34.10409779105841,-118.29173679082383,cocktailbars,"Cocktail Bars",NA
+"La Niña",2,5.0,"Los Angeles",90015,I5dslxvvRpPt_aeYynIhaQ,34.0454477862,-118.265227298,mexican,Mexican,NA
+"Tamales Alberto",374,4.0,"Los Angeles",90026,f-1shORInoTnFOXf6qq8Ww,34.068347,-118.2625568,mexican,Mexican,NA
+"Ricos Tacos Naomi",29,4.5,"Los Angeles",90016,WcmcS-X_XpnWL2ynTRY5sA,34.0203117,-118.3539514,tacos,Tacos,NA
+"Planet Restaurant & Pizza",22,4.0,"Los Angeles",90017,0-mgXaIBMb1lVgIeLQ4kFA,34.0585052,-118.261768,mexican,Mexican,NA
+"Chipotle Mexican Grill",72,2.5,"Los Angeles",90026,QIH9aTg0nLXh4_aZMzugag,34.0771453743465,-118.264760451571,mexican,Mexican,NA
+"Tu Madre - Los Feliz",672,3.5,"Los Angeles",90027,oCOaVAQsdGpsClF2qlTRbw,34.104409,-118.291583,mexican,Mexican,NA
+"El Pollo Loco",145,3.0,"Los Angeles",90035,3aLAjUNE_eTT6AGYYC7OGQ,34.0436516706005,-118.376976070782,hotdogs,"Fast Food",NA
+"Tacos Estilo Tijuana",9,4.5,"Los Angeles",90035,Og0cCRmbSzTAAA8Tm3qMOQ,34.0442567,-118.3773761,tacos,Tacos,NA
+"Tacos Super Gallito",47,3.0,"Los Angeles",90034,eUPc_BQUY56Ii5aw_GHAfQ,34.042263,-118.376704,foodtrucks,"Food Trucks",NA
+"Chipotle Mexican Grill",228,2.0,"Baldwin Hills",90008,6btDYZIKwVybaT0RCw-SNg,34.0132844237488,-118.336624998301,mexican,Mexican,NA
+"Phat Tacos",3,3.5,"Los Angeles",90015,cxnJuXPokw7flu_ilaotbQ,34.040523529052734,-118.26467895507812,tacos,Tacos,NA
+"El Ostion Taco Truck",40,4.5,"Los Angeles",90015,lwQFTLQJIughwwZy6VF1dw,34.03864,-118.26136,mexican,Mexican,NA
+"Ranchos Onsite Tacos",233,5.0,"Los Angeles",90015,fFD-3XDaQQVzKsNSOW86Vg,34.03925704956055,-118.26509857177734,catering,Caterers,NA
+"Leo's Tacos Truck",402,4.0,"Los Angeles",90026,5XZdMmOjLjvdZwgRzro6lQ,34.067768,-118.261123,mexican,Mexican,NA
+"Matthews Kitchen Truck",13,5.0,"Los Angeles",90034,LXyHtur_YLq-x0TN3BXClQ,34.0376702567719,-118.374769315124,foodtrucks,"Food Trucks",NA
+"Burrito King Sunset",281,3.0,"Los Angeles",90026,lyzaGgYRg3vTm8enxGwmJQ,34.0777241,-118.2637577,mexican,Mexican,NA
+"El Patroncito Mexican Cuisine",229,4.5,"Los Angeles",90015,Vl31AJJ7smvgt5Pu5MsP-A,34.036901,-118.268202,mexican,Mexican,NA
+"The Carbon Grill",26,4.0,"Los Angeles",90035,-NOdJ-wF_zHZUrmYdcJG8A,34.0438537597656,-118.378509521484,mexican,Mexican,NA
+"Doña Garnacha Taco Truck",9,4.5,"Los Angeles",90026,PwEU_ZVcX91vzNznIlT-uQ,34.0776194043274,-118.263471800194,foodstands,"Food Stands",NA
+"Worldwide Tacos",291,3.5,"Los Angeles",90008,HpGFjRML4rKx6WCdZbGc7w,34.0109334,-118.3198899,mexican,Mexican,NA
+"CJ's Cafe",236,3.5,"Los Angeles",90016,8wqqb7wTWM-LvTVNDmXhoA,34.01996,-118.356109,soulfood,"Soul Food",NA
+"Taco Dose",1,5.0,"Los Angeles",90015,ZL8yTqOqn0rFKjFX7vgZyA,34.039387400149174,-118.26644988950004,catering,Caterers,NA
+"Tacos Way",225,3.0,"Los Angeles",90046,I1wm3rZdZmQVn2i9NJJmRA,34.09761,-118.36421,tacos,Tacos,NA
+"LA FINCA KITCHEN",1,5.0,"Los Angeles",90007,wnlNdVXpBG5gTyGswqadbw,34.02656,-118.27705,foodtrucks,"Food Trucks",NA
+"Marix Tex Mex Cafe",494,3.5,"West Hollywood",90069,XWiA6AhHD0rBhgYXWyd0vg,34.091083,-118.371154,tex-mex,Tex-Mex,NA
+"El Flamin Taco Truck",204,4.0,"Los Angeles",90026,bkXtGXX5kWjeGcl3VwIEaw,34.07739,-118.26316,foodtrucks,"Food Trucks",NA
+"Jack in the Box",53,3.0,"Los Angeles",90007,S3uIl-IgSMXwBwhJcHCZMg,34.0254010898501,-118.278266787529,burgers,Burgers,NA
+"Tacos Rojos",11,5.0,"Los Angeles",90015,PVztglknHyOp3p0K7uERyw,34.04156093154142,-118.26494364967695,foodtrucks,"Food Trucks",NA
+"El Cholo",848,3.5,"Los Angeles",90015,JvYCa7lKBmAAnZMlbQxFrQ,34.04371,-118.26393,mexican,Mexican,NA
+Verde,41,2.5,"Los Angeles",90089,qcUT0Wz4rXbjINy6L7Lpkw,34.0199943,-118.28577929509005,mexican,Mexican,NA
+"la goterita food truck",2,4.5,"Los Angeles",90015,eor9XUuiWltlPXgGtSarHA,34.0372712873855,-118.267138302326,foodtrucks,"Food Trucks",NA
+"Alonso Tacos ",3,5.0,"Los Angeles",90026,3JGRQxhsQ6ZxZPpMBZsQkg,34.0579155,-118.2598456,foodstands,"Food Stands",1
+"901 Bar & Grill",309,3.5,"Los Angeles",90007,hHcO50egg663PN2v4hxeYw,34.025646,-118.2774206,bars,Bars,1
+"Sonoritas Prime Tacos",124,4.0,"Los Angeles",90015,Ke3WFbRKFHOW7Ity6vO0jQ,34.04314,-118.26371,mexican,Mexican,1
+"El Rio Bravo Restaurant",341,3.5,"Culver City",90232,27CXcAAteTucluMvvWCaKg,34.033371,-118.372963,mexican,Mexican,1
+"J's Burrito",2,4.5,"Los Angeles",90015,OYtTBDBVdP2uUgQenoeelA,34.04760586907386,-118.2617681867744,mexican,Mexican,1
+"Los compayitos food",6,4.5,"Los Angeles",90017,V1YkzrUwFO1jGoa3Jswntg,34.04696437876104,-118.26192509382962,mexican,Mexican,1
+"Belmont Tacos",2,4.5,"Los Angeles",90026,It16tSrchcAWb8DG3FlPbg,34.061029,-118.25927,mexican,Mexican,1
+"El Huero",1040,4.0,"Los Angeles",90007,2t-FTIdnJC1gDjpims7oMQ,34.02479918,-118.27785659,mexican,Mexican,1
+"Felipe’s Tacos",1,5.0,"Los Angeles",90026,Gb0NifwwvTnP9d2uAN_A2g,34.07931143440255,-118.26294494965241,tacos,Tacos,1
+"Perro 110",10,4.5,"Los Angeles",90017,SZTE0DCnTcJxBckW50-fYQ,34.0465,-118.26225,foodtrucks,"Food Trucks",1
+"Petite Taqueria",269,3.5,"Los Angeles",90069,gB-8O-wXzOvEzwROmPp7Kw,34.0850581,-118.3766249,mexican,Mexican,1
+"Ocho Mexican Grill",13,3.5,"Los Angeles",90017,Mi_6YlF1HpIC5csN8BGjRA,34.04877,-118.26077,mexican,Mexican,1
+"Cilantro Mexican Grill",27,3.0,"Los Angeles",90017,4CYzFBkzjhxHzZ5RoTx30A,34.0473,-118.26129,mexican,Mexican,1
+"Beverly Hills Bodega",11,5.0,"Beverly Hills",90211,1C0_gquqwITOx_j9DRVTJg,34.067722,-118.383573,beer_and_wine,"Beer, Wine & Spirits",1
+"Mamá Por Dios",763,3.5,"Los Angeles",90048,T_Hiq_zgUz3C3Rlj843ZAw,34.07344,-118.38225,mexican,Mexican,1
+"Bobby's Mexican Grill",14,4.5,"Los Angeles",90034,GIzb9yyGfBge3JDY3fKjeg,34.03803143823079,-118.37757001401626,foodtrucks,"Food Trucks",1
+"Bed & Breakfast Burrito",1,1.0,"Beverly Hills",90211,yy64ZUNVR3jBYEXPsLYvPA,34.06498,-118.38288,breakfast_brunch,"Breakfast & Brunch",1
+"Taco Bell",37,2.5,"Los Angeles",90008,QoxGwTgvBPPj-vo0cnXAQA,34.011162,-118.338518,hotdogs,"Fast Food",1
+"Las Delicias",54,4.0,"Los Angeles",90062,nIfhkt9Wnj4ZOflbhAOy5w,34.0102421,-118.3090649,mexican,Mexican,1
+"Casita del Campo",782,3.5,"Los Angeles",90027,RdLz9GVW48pu2XmhrMsLUg,34.09745,-118.27499,mexican,Mexican,1
+"Lenny's Casita",128,4.5,"Los Angeles",90035,Zbl6doI-1YkRkJ2Bg8aYBg,34.05506466348398,-118.38432342704303,kosher,Kosher,1
+"Julio's Taqueria",1,1.0,"Los Angeles",90046,HzUfh1hMOcpxH190k98fkw,34.09772,-118.36769,mexican,Mexican,1
+"Pinches Tacos",893,4.0,"Los Angeles",90046,xVgz_F3gnbhyn_2goJ8vYQ,34.09772,-118.36769,mexican,Mexican,1
+"Wild Dogs Grill",23,3.5,"Los Angeles",90017,SF9e0nmx70hYcIj7QyuGNg,34.048791,-118.2594084,hotdog,"Hot Dogs",1
+"Gardens of Taxco",164,4.5,"West Hollywood",90069,i5HAfpnYE3X-UAk147WtFg,34.0895613,-118.3756666,mexican,Mexican,1
+"Jack in the Box",32,1.5,"Los Angeles",90062,LabVjXWRuqyLAGxhIawSDA,34.0110803,-118.301662355661,burgers,Burgers,1
+"Danny's Tacos",424,3.5,"Los Angeles",90015,V5CUd9ZL9ZZEI4v1c4S61g,34.04261,-118.26147,foodtrucks,"Food Trucks",1
+"Tacos Super Gallito",20,2.5,"Los Angeles",90034,DIU5jbKGxVyFfn2sk--9LQ,34.035831,-118.377503,foodtrucks,"Food Trucks",1
+"Tania's Tacos",4,4.0,"Los Angeles",90026,Oxi_2gvn_X4o5hno0T_D3A,34.075180273,-118.259337433,tacos,Tacos,1
+"Taco Zone",674,4.5,"Los Angeles",90026,4Eq3-d9PQKRsx7lBUfjPUA,34.0807756721835,-118.261483535171,mexican,Mexican,1
+"JT Cafe",60,4.5,"Los Angeles",90015,FX-WjiGBZz-whOK_GTkf5A,34.03554,-118.26546,italian,Italian,1
+"Red Fish Kitchen",48,3.5,"Los Angeles",90035,ZfHO3reY56DliVYFtvDP1g,34.0553283691406,-118.385215759277,sushi,"Sushi Bars",1
+"Tacos Don Fernando La",2,5.0,"Los Angeles",90034,DVA8IoUC7KUszaMw8PvdLw,34.037591,-118.378819,mexican,Mexican,1
+"Southern Taco",1,4.0,"Baldwin Hills",90008,091oRZ_Ltfp13s68yfK6Tg,34.0094164063281,-118.33482097983263,tacos,Tacos,1
+"Chile Verde",20,2.5,"Los Angeles",90008,WLuaeW0Jgy4uA-YAymwm4g,34.010428,-118.336776,mexican,Mexican,1
+"Sabores De Oaxaca",73,3.5,"Los Angeles",90034,eFBcReqfnKevi8v20EP5SQ,34.03516,-118.37732,mexican,Mexican,1
+"Taco Bell",18,2.0,"Los Angeles",90062,E400K9Av32vfHp580rY1pg,34.01126,-118.29989,mexican,Mexican,1
+"Pink Taco",1455,3.5,"Los Angeles",90046,fCzDsLfL5yvlGragBwV40A,34.097805690153,-118.36887065166161,mexican,Mexican,1
+"La Fiesta Bakery and Restaurant",3,5.0,"Los Angeles",90062,YBTfEWFdnL-oJujviicBGw,34.01063,-118.30157,bakeries,Bakeries,1
+"Todo Verde",61,5.0,"Los Angeles",90068,UdWQu4w9l3Y9aKkioWUryw,34.1139993,-118.3344133,catering,Caterers,1
+"Cabo Cantina",460,3.0,"West Hollywood",90069,3hP294WGDgTA6VnL8CAWug,34.09664,-118.370483,mexican,Mexican,1
+"La Salsa",44,3.0,"Los Angeles",90071,sNknl9Vp1fxgnCTeZVtqmQ,34.053277,-118.257216,mexican,Mexican,1
+Trimana,92,4.0,"Los Angeles",90037,9mHXsA466j-WfqitLT9_Ag,34.016204,-118.286373,mexican,Mexican,1
+"Burger Factory",65,2.0,"Los Angeles",90037,Dw5blRdPLXd2WsP9znM1aQ,34.0106363940832,-118.299984969199,mexican,Mexican,1
+"Juana La Cubana",15,4.0,"Los Angeles",90007,PrvGlIM0L99VY-AgkFJRMw,34.0310740470886,-118.267290517688,mexican,Mexican,1
+"Rodeo Mexican Grill",430,3.0,"Los Angeles",90026,4dGt-8wBw449e2e1nIj8MA,34.0777138,-118.2589755,mexican,Mexican,1
+"El Palmar",3,3.5,"Los Angeles",90007,59YkqlH6eRJ5uBTmFzFmAQ,34.02658,-118.27167,salvadoran,Salvadoran,1
+"Just Turkey",175,4.0,"Los Angeles",90016,9GHopT8nFKqztDYHacbK-A,34.02692,-118.37158,burgers,Burgers,1
+"Rodeo Express",52,4.5,"Los Angeles",90026,J-YdHW730lY0BgsDRZCB6Q,34.077727,-118.258845917881,mexican,Mexican,1
+"Tacos Arabes- Taco Truck",9,4.5,"Los Angeles",90026,OurQD4GsApgFHTt7YPWCCA,34.0769585967064,-118.258563950658,mexican,Mexican,1
+"Señor Fish",252,3.0,"Los Angeles",90026,dKVIKCk_hXw01ivIvWGEcQ,34.0773897069776,-118.258504271507,mexican,Mexican,2
+Devorame,40,4.5,"Los Angeles",90017,atwvQmt_Z0HG28mWHuwxHg,34.04837,-118.25768,foodtrucks,"Food Trucks",2
+"QDOBA Mexican Eats",220,3.5,"Los Angeles",90017,3O7YbvVTw_pYPIu4rwr4vQ,34.0482731,-118.2575949,mexican,Mexican,2
+"Cilantro Mexican Grill",58,2.5,"Los Angeles",90071,l43jcqiGPAE43oxQKvWlDQ,34.05147,-118.25649,mexican,Mexican,2
+"La Guera Restaurant",5,5.0,"Los Angeles",90015,8CGSKoJP4Cgb1mqcad1vTQ,34.034187,-118.264153,mexican,Mexican,2
+"Jack in the Box",23,1.5,"Los Angeles",90008,pa6WoJsbvXmSi8FmcjFAVQ,34.007935,-118.334798365831,hotdogs,"Fast Food",2
+"Cilantro Fresh Mexican Grill",26,2.5,"Los Angeles",90012,tNhJ9VSGBUwdManux3Xrwg,34.0395354524023,-118.260814955498,mexican,Mexican,2
+"Jack in the Box",48,2.5,"Los Angeles",90015,XT1cB9jFsj7_ygLkSATz_g,34.03397633723965,-118.26412482747055,hotdogs,"Fast Food",2
+"Barbacoa Estilo Toluca",16,3.0,"Los Angeles",90007,jwrhuzfYM_rOQSH15RloEw,34.025631,-118.2714005,mexican,Mexican,2
+"Chipotle Mexican Grill",378,2.5,"Los Angeles",90007,TPPk2Ii3rMcBN7qylcq9gw,34.0169555554708,-118.282584020255,mexican,Mexican,2
+"Tacos Arizas",215,4.0,"Los Angeles",90026,ZNL76QlAzJjYjBc6ALM5Gg,34.07705,-118.25887,mexican,Mexican,2
+"Kosher Pizza Station",74,4.5,"Los Angeles",90035,U0tqLbsRtWSFQsQD7-T0yA,34.0553849,-118.3875885,pizza,Pizza,2
+"Alejandra’s Quesadilla Cart",172,4.5,"Los Angeles",90026,RMi8jn4ZBnAL3-l1T7tjmA,34.0760671,-118.257599,foodstands,"Food Stands",2
+"Hot Dogs King",17,3.0,"Los Angeles",90017,RsngNklQlTtgu-FLA0OeTA,34.0493230918898,-118.256425139832,foodtrucks,"Food Trucks",2
+"Tacos Mexico",88,3.0,"Los Angeles",90026,9IwD44Q0z9onNIyr6q64_g,34.082695171237,-118.259922489524,mexican,Mexican,2
+Yuca's,809,4.0,"Los Angeles",90027,yyFYXpciJvklnRupotn6qw,34.10912,-118.28707,mexican,Mexican,2
+"LJ’s Fish And Shrimp Taco",38,4.5,"Los Angeles",90026,SVdZ44Wdu7RXGWMdRTt8Vw,34.077734,-118.257534,tacos,Tacos,2
+"Chipotle Mexican Grill",348,2.5,"Los Angeles",90017,HPdHlt__xeJzcYwBEuoWag,34.0475961269233,-118.256647185798,mexican,Mexican,2
+"Market Cocina",2,2.5,"Los Angeles",90017,1ipHYtaaW3bGPDW-OJ1-Cw,34.0456943,-118.2572291,mexican,Mexican,2
+"Melissa's Catering",1,5.0,"Los Angeles",90008,m5hrZ6NbPdpr-NyTs49h9w,34.00721,-118.33456,mexican,Mexican,2
+"Tocaya - DTLA",309,3.5,"Los Angeles",90014,28HzNE8LVC3KZ1jKvAc8hg,34.04511,-118.25734,mexican,Mexican,2
+"Los Burritos",73,3.0,"Los Angeles",90026,4YJM3Tjp5ifkEktzG8FHvg,34.0771336108446,-118.257081359625,mexican,Mexican,2
+Pizzabilities,16,4.0,"Los Angeles",90071,RDhpceUhi2UZ5Rfv7gz5rA,34.0540580749512,-118.254608154297,pizza,Pizza,2
+"Mayas Tacos Market",175,4.0,"Los Angeles",90026,3plBRIoQ8N3Bdlxm3jnbhw,34.0833854675293,-118.259506225586,mexican,Mexican,2
+"Good Clean Fun",35,4.5,"Los Angeles",90015,IUm-XR_PcbHIARMv8HH0Zg,34.0438777,-118.2578333,wine_bars,"Wine Bars",2
+"Chipotle Mexican Grill",43,3.5,"Los Angeles",90015,YGKk2m37jkpdtxf2F_ZmRA,34.042015,-118.25841,mexican,Mexican,2
+"Vegana Mexicana Street Food",1,5.0,"Los Angeles",90071,p8MD5r4FQmtkrID2Yia3NQ,34.0520172119141,-118.255630493164,fooddeliveryservices,"Food Delivery Services",2
+"Tacos Toluca",2,5.0,"Los Angeles",90015,iojZkvl5g6tFHEm1XkN1OA,34.03815,-118.26028,tacos,Tacos,2
+"La Chuperia",205,4.5,"Los Angeles",90007,lXipm1mnODP19kdviBqn4g,34.016551,-118.281564,mexican,Mexican,2
+"El Sombrero",3,3.5,"Los Angeles",90015,yYQOBuqTEewU51gRcq6mYA,34.0316620877265,-118.264451753099,mexican,Mexican,2
+"K Bakery",163,4.0,"Los Angeles",90026,5oG5qtCEfBQHe1SfP_2pXg,34.066074192524,-118.254081979394,bakeries,Bakeries,2
+"Sunset Mariscos",1,5.0,"West Hollywood",90069,eSqAk11PZ3AYYTevAeduXA,34.09371732678671,-118.3766457,seafood,Seafood,2
+"Pinches Tacos",58,3.0,"Los Angeles",90017,CmIuXeP4Gsadd_yzXC2pog,34.048794,-118.255671,tacos,Tacos,2
+"EK Valley Restaurant",422,4.5,"Culver City",90232,0AP2zk_6xVq3WHqulqK8zA,34.0313871949911,-118.378132134676,mexican,Mexican,2
+"Restaurant Y Mariscos Guerrero",7,4.0,"Los Angeles",90015,BMQEzfr4wMQuwHXLR5QUSQ,34.035382269669,-118.261258900166,mexican,Mexican,2
+"Happy Tacos",25,5.0,"Los Angeles",90026,GK7Tww4x8A4Xc_Nz-xTxIQ,34.0757,-118.25562,tacos,Tacos,2
+"Taso Taco Taco",1,4.0,"Los Angeles",90037,PG5q4yjXxClN2gZnQPpypg,34.0106414458525,-118.292470671922,mexican,Mexican,2
+"Trap Tacos",1,3.0,"Los Angeles",90015,ZLJvUD7fpVrCA6dLWacz5w,34.0314977,-118.2640295,tacos,Tacos,2
+"LA Buns & Company",136,3.5,"West Hollywood",90069,YF2E9303TVt6FrDMjDvHmA,34.086437,-118.382453,burgers,Burgers,2
+"Fiesta Birria",3,5.0,"Los Angeles",90015,YyCrFP9TB__rGMoyzpwbPA,34.035004110971116,-118.2612803,tacos,Tacos,2
+"Mercado La Paloma",190,4.5,"Los Angeles",90007,ldjkVkY5GO9-XWN9-8mmWw,34.017639,-118.278353,latin,"Latin American",2
+"Los Twins Tacos",3,4.5,"Los Angeles",90014,jtZyXp4_q3Gk91oGoN3j6A,34.04332,-118.25657,foodtrucks,"Food Trucks",2
+"Jack in the Box",38,3.0,"Echo Park",90026,qa01QqMZb1r3wWSYoJAVRQ,34.08601075607527,-118.25956936066112,burgers,Burgers,2
+"Taqueria Vista Hermosa",186,4.0,"Los Angeles",90007,Hj1iNlNjj7jYRQ8mYD4Cpg,34.017394,-118.278465,mexican,Mexican,2
+Holbox,518,5.0,"Los Angeles",90007,-5TFq3V--bffJGW000YuGQ,34.01741823002926,-118.27843182418147,latin,"Latin American",2
+"Leo’s Tacos Truck",1,4.0,"Los Angeles",90016,MkgupljOQbXZ446wNerZKg,34.0246705,-118.3734038,tacos,Tacos,2
+"Grillicious Truck",32,2.5,"West Hollywood",90069,capJxVrfwLqQYLL2sOlcyA,34.0884132385254,-118.377822875977,foodtrucks,"Food Trucks",2
+"5 Elementos",40,4.0,"West Hollywood",90069,oPp7adno_OqgEbzBKaS0Gw,34.09383,-118.38304,mexican,Mexican,2
+"Oaxacalifornia Cafe & Juice Bar",77,4.0,"Los Angeles",90007,UX5bCQXsSUDdS3G-3WokTg,34.017444,-118.278296,juicebars,"Juice Bars & Smoothies",2
+"Chichen Itza Restaurant",1296,4.5,"Los Angeles",90007,vC_6J_nGyf4J8xt-Vu6Shw,34.017358,-118.278406,mexican,Mexican,2
+"LA Burrito",1,5.0,"Los Angeles",90071,sal9Bpc38--tL9BBjp93lQ,34.051468,-118.253265,mexican,Mexican,NA
+"Two Hommés",2,5.0,"Leimert Park",90008,ZRTzxkpr5hJGR023LtCZ3Q,34.0053502202,-118.331701148,mexican,Mexican,NA
+"Fiesta Cantina",888,3.0,"West Hollywood",90069,o3extM5pEVddGGDz2W7BkA,34.0853401,-118.3839643,mexican,Mexican,NA
+"La Quesadilla Rapida",1,4.0,"Los Angeles",,KeKa9aQf7BhT7ip3sv2Yrg,34.0372528528452,-118.258999084444,foodstands,"Food Stands",NA
+"Tacos Mexico",315,3.5,"Los Angeles",90015,A1z9zXowKDHLdd5eL9x-gg,34.0421380712184,-118.2565104143,mexican,Mexican,NA
+"Gloria's Kitchen",1,1.0,"Los Angeles",90026,hO5hdP07uQUYW6wtetVpwg,34.0756301879883,-118.254486083984,mexican,Mexican,NA
+"Pez Cantina",1,5.0,Montebello,90640,cszHXA0h88pjvSIInZFnvQ,34.05149346425365,-118.2532981,mexican,Mexican,NA
+"Pez Cantina",1045,4.0,"Los Angeles",90071,hIythZZ3mpPwwhSJkUuJQQ,34.05167,-118.25298,seafood,Seafood,NA
+"Tommy's Cafe",1,5.0,"Los Angeles",90015,1nXdbwowrZW-707mCHePfw,34.0325561,-118.2617173,mexican,Mexican,NA
+"Sunny & Fine's Breakfast Burritos",1,1.0,"Los Angeles",90037,XM2ryp1PxTMfutgneZCdkA,34.014195,-118.28243,fooddeliveryservices,"Food Delivery Services",NA
+"Restaurante Iguala",1,2.0,"Los Angeles",90014,ph8rOqCK_0NP7lAA9-DBmw,34.0441795,-118.2553696,mexican,Mexican,NA
+"Taco Bell",45,2.0,"Los Angeles",90016,dpEtp4Ltg6wYSEqO59x_WQ,34.022615,-118.37231,hotdogs,"Fast Food",NA
+"Taco Mell",49,4.0,"Los Angeles",90008,yoS4p3WkpBbuTHybWlFlYg,34.0048406951571,-118.33286985755,mexican,Mexican,NA
+"Gracias Madre - West Hollywood",4565,4.0,"West Hollywood",90069,EWbbiUBkGzCYrEoOF05HzA,34.0807951106153,-118.386972025037,mexican,Mexican,NA
+"Chicas Tacos at Banc of California Stadium",1,4.0,"Los Angeles",90037,Z7ka4djdtg92stfr8vQ4Ag,34.0127446143912,-118.28447659349,mexican,Mexican,NA
+Guisados,934,4.5,"West Hollywood",90069,_o6cTaR_pnm2XucZS6fTug,34.0844498,-118.3853226,mexican,Mexican,NA
+"Acosta Catering Truck",4,4.5,"Los Angeles",90007,85ojhHRPzqo5TfZrl3a9_w,34.02343,-118.26914,mexican,Mexican,NA
+"Cilantro Fresh Mexican Grill",1,4.0,"Los Angeles",90071,5pT0HV8mAWWsF0MjynX31g,34.05319,-118.25252,mexican,Mexican,NA
+"Trejo's Tacos/Trejo's Coffee and Donuts",1,2.0,"Los Angeles",90071,54vjN5tqt0rNJLXHUqFm_Q,34.05276,-118.252466,mexican,Mexican,NA
+"Tocaya - West Hollywood",797,4.0,"West Hollywood",90069,U-cOIyQWsORZqXKNHAv-3g,34.0914626,-118.38112,mexican,Mexican,NA
+"5 Star Kitchen",111,4.0,"Los Angeles",90008,Z78z-cVDpkd4kn0aNmnnUQ,34.00382,-118.31775,tacos,Tacos,NA
+"Tamale Guy",5,5.0,"Los Angeles",90026,9DjtQMDNBj4eAUxgEL_vFA,34.0752493225179,-118.253522820971,mexican,Mexican,NA
+"My 5 Angels",22,3.5,"Los Angeles",90071,Yvyfm0JyIr8lzvKgrygAsA,34.0515365600586,-118.252540588379,foodstands,"Food Stands",NA
+"Tacos El Primo",161,4.5,"Los Angeles",90034,zpQfRpjW_J_g7OhtkIv2FQ,34.0330513,-118.3822857,tacos,Tacos,NA
+"El Compadre",798,3.5,"Los Angeles",90026,2hWFIL6qJI6FgqmKdXLFKA,34.07513,-118.25307,mexican,Mexican,NA
+"Tacos Mexico",50,3.5,"Los Angeles",90014,WQvsAGnWJcjUQQH3DMw8gA,34.0453095,-118.2537606,mexican,Mexican,NA
+"Tacos AF",15,4.0,"Los Angeles",90014,oOijUFk2ekTzAQ7S2apOKQ,34.04540009509255,-118.25391789796186,tacos,Tacos,NA
+"Pattern Bar",429,4.0,"Los Angeles",90015,oZIKA92DwMm7uxyuXpmfMg,34.0416202728339,-118.255163270714,cocktailbars,"Cocktail Bars",NA
+"Juanita's Cafe",34,4.0,"Los Angeles",90014,w20QTxbXstwbFTvQAmlwAQ,34.044881,-118.2538079,mexican,Mexican,NA
+"Tacos by Dres",58,4.0,"Los Angeles",90037,fEka7PsE3xKeYMBlj3yzxw,34.014976393027965,-118.27876077364706,tacos,Tacos,NA
+"Lindo Oaxaca",79,4.5,"Los Angeles",90015,37gMBHZA9OVE_tckoSRC4Q,34.0296223014593,-118.261869773269,mexican,Mexican,NA
+BurritoBreak,11,5.0,"Los Angeles",90014,lBEPxx5e6xcGBoxHLW6ByA,34.046408560736516,-118.25307605867823,mexican,Mexican,NA
+"Sakana Burritos",1,5.0,"Los Angeles",90037,G7AV640-x8hQtUfmM4TKlA,34.014673,-118.278658,fooddeliveryservices,"Food Delivery Services",NA
+"The Original Taco Pete",11,4.5,"Los Angeles",90059,wZ2z5whokV4BphFdtsvVOQ,34.014673,-118.278658,tacos,Tacos,NA
+"Quesadilla Mia",3,5.0,"Los Angeles",90037,ZkFtSH49SvF6ZovaSs3qbw,34.014673,-118.278658,fooddeliveryservices,"Food Delivery Services",NA
+"Jackfruit Cafe",235,4.5,"Los Angeles",90037,sew0crT9WoZ0I11Mg6Msaw,34.01474183878144,-118.27877150223892,bbq,Barbeque,NA
+"Sky's Gourmet Tacos",10,3.5,"Los Angeles",90037,8-usxg6q356D81NmpZblyA,34.014673,-118.278658,tacos,Tacos,NA
+"El Pollo Loco",91,1.5,"Los Angeles",90008,nev127BSl1TR1mMUPGd4wA,34.00345316454868,-118.33121909325409,hotdogs,"Fast Food",NA
+"Olga's Naturally: Mexican + Vegan",293,4.0,"Los Angeles",90016,2goSSpEuir3egIAmo6Rbcw,34.021206,-118.3728532,mexican,Mexican,NA
+"El Ranchito Restaurant",29,4.5,"Los Angeles",90007,iNQQFc8BhrPdfPJaeKIyYw,34.0185906,-118.2728363,mexican,Mexican,NA
+"El Chaparrito Tacos",3,4.5,"Los Angeles",90062,OOSj6te0DpUN6LLS_2-qzg,34.00375660970046,-118.30875141605375,foodstands,"Food Stands",NA
+"Cafe Aly",28,5.0,"Los Angeles",90015,jsAlro-yfLHx5TrET1G--A,34.0348057,-118.2579847,persian,Persian/Iranian,NA
+"Tamales Alberto 2",42,4.0,"Los Angeles",90026,EVqfbQknhcMEF_jKdhTspA,34.0735424641043,-118.251839,mexican,Mexican,NA
+"Rico Taco",2,3.5,"Los Angeles",90014,3KcJHfnghCgr4Fs32pOCIQ,34.0430907,-118.2540021,mexican,Mexican,NA
+"El Ultimo Tren",18,5.0,"Los Angeles",90012,VcGJxwbC5A2kUf9NKT54Hw,34.059319,-118.250379,foodtrucks,"Food Trucks",NA
+"Good Grill Express",39,3.0,"Los Angeles",90015,rbcOzsLyUv4D8H1VyfKhcQ,34.03897,-118.25569,mexican,Mexican,NA
+"Sultan Chicken",363,4.0,"Los Angeles",90014,vywBUQsQ6r3x8U8FkrPJAA,34.047011,-118.252336,mideastern,"Middle Eastern",NA
+"Cilantro Lime",457,4.5,"Los Angeles",90015,bHkfCBRQfAd60luOgRxkjw,34.03967,-118.25472,mexican,Mexican,NA
+"Grandmas Kitchen Kaffe",37,5.0,"Los Angeles",90015,CbXvo2NcTNj57rE39LEvVg,34.034646,-118.25774,mexican,Mexican,NA
+"Tacos El Pinche guero",1,5.0,"Los Angeles",90026,RCS7Dk1G_e_haD4jom4TuA,34.074589,-118.251802,tacos,Tacos,NA
+"Tacos de Canasta La Salsa",7,2.5,"Los Angeles",90015,bHzNTRAlYu1JoZ9UpMQ5Ng,34.03514667,-118.25763,tacos,Tacos,1
+"The Classic Cat",20,2.5,"West Hollywood",90069,fMuguFh5yIOwMDTd4kp2pw,34.09034,-118.38414,venues,"Venues & Event Spaces",1
+"La Michoacana Taco Truck",3,4.0,"Los Angeles",90189,H-TbUfo_Y48XqndBo91uug,34.0534896850586,-118.245323181152,mexican,Mexican,1
+"Master Burger",118,3.0,"Los Angeles",90062,Yq7DDzkfMEWPQO_xrUJarA,34.0031,-118.30929,burgers,Burgers,1
+"El Pollo Loco",79,1.5,"Los Angeles",90015,DcEIt_dlAMaBMSpzFHYHUA,34.0292350085868,-118.261304138315,hotdogs,"Fast Food",1
+Guisados,2250,4.5,"Los Angeles",90026,BDRVlHnK4l0T0ANb7M-Eqg,34.0702395145121,-118.250448424643,mexican,Mexican,1
+"The Alley Dog",114,3.5,"Los Angeles",90015,zOzNb7QQAxj5zuBXM6_IPw,34.0359763,-118.2567079,mexican,Mexican,1
+"Teddy’s Red Tacos",104,4.0,"Los Angeles",90012,xHuKx24Ho7vVWK600v1m3g,34.06615,-118.24975,foodtrucks,"Food Trucks",1
+"Aguilar's Taco's",0,0.0,"Los Angeles",90014,N-huAtmLUFZuVuZT5MU8LA,34.04483,-118.25228,mexican,Mexican,1
+"Hood Tacos",1,5.0,"Los Angeles",90062,j2-WLPxjzvVa04VZXjACQg,33.99914,-118.30795,tacos,Tacos,1
+"Fins & Grill",3,4.5,"Los Angeles",90015,3DfGCvJakhGso8RkJBqJJQ,34.0394128085849,-118.254832327366,seafood,Seafood,1
+"Flavor  & Flame",1,3.0,"Los Angeles",90015,CtSsFdZMaL91wtPW1KFZ1A,34.0345643027783,-118.257466927171,mexican,Mexican,1
+"Tacos + Quesadillas",3,3.5,"Los Angeles",90026,L79oiifUTc_f9Fx3xIzYgg,34.06909292302754,-118.2501719892025,tacos,Tacos,1
+"Angel's tijuana tacos",82,4.0,"Los Angeles",90026,rODYL9B2ou4K3FoLAZO7GQ,34.0679854054454,-118.250015473398,tacos,Tacos,1
+"La Salsa Seafood",2,3.0,"Los Angeles",90015,5vsnQV8ZN5WSODl8nuoOIg,34.0392709101068,-118.25469603271715,seafood,Seafood,1
+"Heritage Kitchen",4,4.5,"Los Angeles",90014,dj0P_k5GSrUQtZBNk0dn1Q,34.0438563777192,-118.252698281481,newmexican,"New Mexican Cuisine",1
+"Casa La Doña",692,4.5,"Los Angeles",90014,5o_XEyhLrgpB6Cmeqp9NGg,34.0427123,-118.2531436,mexican,Mexican,1
+"Mariscos El Rincon de Nayarit",16,3.5,"Los Angeles",90062,XwpQ6idWT02PSJmZFEayfw,34.0037781213457,-118.303713910282,seafood,Seafood,1
+"Jacky’s Restaurant",30,4.5,"Los Angeles",90013,BUuCe-IOTdqgDYWkOptXOQ,34.0482552415621,-118.251074481174,mexican,Mexican,1
+"Paloma Celestial Food Truck",2,3.0,"Los Angeles",90034,W17A4C7TYqOGRMaORTgIQw,34.039044,-118.38803,foodtrucks,"Food Trucks",1
+"Long Beach Tacos",1,5.0,"Los Angeles",90250,4UDrudj1aFccI5zLoCP1ag,34.04384,-118.25268,mexican,Mexican,1
+"International Food Court",4,4.5,"Los Angeles",90015,cNK1gSrm7etvLpYep5raCw,34.0397365,-118.2540538,indpak,Indian,1
+"surfer grill",7,4.0,"Los Angeles",90014,xQKnzPrqZl0W-y0dB6Y65A,34.04384,-118.25268,mexican,Mexican,1
+"Burris On Broadway",7,3.5,"Los Angeles",90014,4n_n4ctnX6KV1OcuV3yF8g,34.0464445,-118.2514729,mexican,Mexican,1
+"Birria on Broadway",29,5.0,"Los Angeles",90014,_ThLbHleFLqlVsdXlsZBBQ,34.04664018234895,-118.25161166489124,tacos,Tacos,1
+"Mi Corazon",414,4.0,"Los Angeles",90027,vAGszIli2pkHf_0HolmLmw,34.10596,-118.27281,mexican,Mexican,1
+"Taco Mundo",4,4.0,"Los Angeles",90014,S0r-tYSncjdJ58rtXnuEtg,34.0426399,-118.2528752,mexican,Mexican,1
+"Jack in the Box",94,2.5,"Los Angeles",90012,JEdAusXDHhlHTRHt58TtBQ,34.0647558,-118.2491986,burgers,Burgers,1
+"Raspados Los Gueritos",4,1.0,"Los Angeles",90015,HXvhLW7mhkhVR-Ud6NjBWQ,34.0355312079191,-118.256377950311,mexican,Mexican,1
+"La Panaderia Michoacana",9,4.0,"Los Angeles",90011,GNUmRgwbNHmZaD-C1DdEGg,34.02326,-118.26593,mexican,Mexican,1
+"Tamales Costeños",1,2.0,"Los Angeles",90011,AqO2IEHMOAl_7MRmAFzBNg,34.024158,-118.264587,streetvendors,"Street Vendors",1
+"Pinches Tacos",451,3.5,"Culver City",90232,vRFeg1kGJJhI76SkP6O8Sg,34.0301282374949,-118.383085347144,mexican,Mexican,1
+"Birrieria Los Gonzalez",240,4.0,"Los Angeles",90011,yMJpttJxzObbbRh0ekawmQ,34.02362,-118.26508,mexican,Mexican,1
+"Tacos 1986",623,3.5,"Los Angeles",90014,k3D-nW6EjjJguYkUupCUaA,34.0458186,-118.2514334,tacos,Tacos,1
+"El Pollo Loco",31,3.0,"Los Angeles",90015,zYuG-VbeKaBqLHy3YtYn6g,34.039990888872474,-118.25367235103282,hotdogs,"Fast Food",1
+"Baby Lobster",48,3.0,"Los Angeles",90015,__D9TH9-JRh_7CvWJcPZcQ,34.038311,-118.2542496,seafood,Seafood,1
+Mezcalero,580,4.0,"Los Angeles",90013,yyTLKAplUF89xydeB2bZWQ,34.04751,-118.25072,cocktailbars,"Cocktail Bars",1
+"Alebrijes Mexican Grill",7,4.0,"Los Angeles",90014,ds7b-5HWYXHejkg8r4GKcg,34.04403567559151,-118.25177670467863,mexican,Mexican,1
+"Mex Peru Gipsy",1238,5.0,"Los Angeles",90015,beA_DlDpij8O9xK2B-NjEA,34.035217,-118.25591,mexican,Mexican,1
+"Doña Inez",105,4.5,"Los Angeles",90014,AqiNo_WDzbxgW6s2SscG5g,34.0408258,-118.2525627,mexican,Mexican,1
+"Mariscos Los Korales",8,4.5,"Los Angeles",90011,hewQpw7lZpr2wsvUC6BELg,34.022835,-118.265465,seafood,Seafood,1
+"Juicy B",2,5.0,"Los Angeles",90013,XwRzQsHhNNZegF6qaM_95Q,34.04655,-118.25065,mexican,Mexican,1
+"Guisados DTLA",1935,4.5,"Los Angeles",90013,VqG_rccDoUXreiaHH0DEUA,34.0465305975394,-118.250679851854,mexican,Mexican,1
+"Taco Bell",57,3.0,"Los Angeles",90034,6RXsQgcY6ufw7N-TwJpavA,34.037485734005124,-118.38837242331242,hotdogs,"Fast Food",1
+"Lupita's Hot Dogs",20,5.0,"Los Angeles",90013,BO9fCPpE2QGFSoB4c_ovsQ,34.0480163,-118.2501836,foodtrucks,"Food Trucks",1
+"Taco House",15,4.5,"Los Angeles",90014,0RN6PEh510o70c5tfI555w,34.0405454,-118.25285,mexican,Mexican,1
+"Ana Maria's",257,4.0,"Los Angeles",90013,-BqteNnVWIgDgwq9kc8Z1w,34.051052,-118.2493274,mexican,Mexican,1
+"Villa Moreliana",456,4.5,"Los Angeles",90013,eTDN9KE5LAjQdai_8J6pZg,34.05088,-118.249003,mexican,Mexican,1
+"Jose Chiquito",138,4.0,"Los Angeles",90013,lCZBPzqKudOpnYMEN13eNw,34.051052,-118.2493274,mexican,Mexican,1
+"Roast To Go",179,3.5,"Los Angeles",90013,IvFnmLx33hSzwTiiIiRY2g,34.0505289,-118.2486189,mexican,Mexican,1
+Sonoratown,1503,4.5,"Los Angeles",90014,Ti2Ksp2oPj6rpdp2tQcaVA,34.041648,-118.252245,mexican,Mexican,1
+"Campos Tacos",204,3.5,"Los Angeles",90034,uZKJ-HvFB_iwxTM8AfOD2g,34.03772,-118.38884,mexican,Mexican,1
+"Artesano Tamaleria",63,4.5,"Los Angeles",90014,IeOYX7Hc7AXxyFVnT2WfPA,34.0412,-118.25224,mexican,Mexican,1
+"Los Gueritos No. 3",1,1.0,"Los Angeles",90015,8FbrJeuO9UulS829KUETmg,34.0347404,-118.2555909,mexican,Mexican,1
+"Guero's Cocina Mexicana",152,4.5,"Los Angeles",90014,RLn3T-U9_iyIuxZ1evzJkw,34.0427,-118.251661,mexican,Mexican,1
+"Margarita's Place",84,3.5,"Los Angeles",90014,6lSy_Gw5EsSswQK5ZYhhHQ,34.0439053,-118.2511007,tacos,Tacos,1
+"Happy Burrito",10,3.5,"Los Angeles",90014,-Ew9bbKWzrY7twDZE2C_QQ,34.04402,-118.25099,mexican,Mexican,1
+"Cuernavacas Grill",10,4.0,"Los Angeles",90015,PWgfZqJPoFqBl5SkHMUAsw,34.036758,-118.254224,mexican,Mexican,1
+"Cazares Food Las 3 Chicas",1,5.0,"Los Angeles",90015,_22DxArgJNO_EdsM_6cP5g,34.03739,-118.25362,foodtrucks,"Food Trucks",1
+"Tacos El Porvenir",5,5.0,"Los Angeles",90011,w7c062yyS5vPoLU2Nhkc4g,34.0200805664062,-118.267265319824,mexican,Mexican,1
+"La Tostaderia",422,4.0,"Los Angeles",90013,SsOlRN_7cKsHlek_RyohvQ,34.050713,-118.248882,seafood,Seafood,1
+"Justin Queso's Tex-Mex Restaurant & Bar",173,4.0,"West Hollywood",90069,m2LZT8qbSyAyJARcDGgyGg,34.090881,-118.38612,mexican,Mexican,1
+"Tacos Tumbras a Tomas",1064,4.0,"Los Angeles",90013,520Wd4FU_DixBprFQQnnxg,34.050649,-118.248831,mexican,Mexican,1
+"Blues' tacos",7,4.5,"Los Angeles",90026,wU3AfboT9oA-lRrXE2-ZQw,34.069772,-118.248242,tacos,Tacos,1
+"Birrieria Baldomero's No 2",15,4.5,"Los Angeles",90011,9UEof1qwNgV8e9DV6VtvaQ,34.0194272249937,-118.267942965031,mexican,Mexican,1
+"Forty’s Bakery and Restaurant ",2,5.0,"Los Angeles",90014,bvIkstDpZN1Y10ccvdWoKQ,34.043631,-118.250588,mexican,Mexican,1
+"San Andres Restaurant",1,5.0,"Los Angeles",90037,ejxNWaFtQAr4HQuGQBHoAQ,34.012394,-118.277061,mexican,Mexican,1
+"Birrieria Baldomero",34,4.5,"Los Angeles",90011,vwcikFtT-pmZOMFA1ARTTA,34.0186653137207,-118.26830291748,soup,Soup,1
+"El Charrito",1,3.0,"Los Angeles",90014,rALinHU-RU5lS8CNAfavKg,34.03992595437612,-118.25194727629425,juicebars,"Juice Bars & Smoothies",1
+"La Esquinita Salvaderena",1,5.0,"Los Angeles",90037,pIGWAoFnv7PU5PXbIB5-Fg,34.005318,-118.291206,mexican,Mexican,1
+"Crazy Tacos",38,3.0,"Los Angeles",90013,zqfLsLComZqbgyg_FnH4nQ,34.0455651,-118.2494017,foodtrucks,"Food Trucks",1
+"J & S Food Mart",2,4.0,"Los Angeles",90015,ofgKJoekD8ifus6Z7BZPqQ,34.03491,-118.25431,korean,Korean,1
+"Daly Magic Restaurant",1,5.0,"Los Angeles",90015,dwofF6bccRgL2XFeo_YN6g,34.03478,-118.25416,latin,"Latin American",1
+"Cocina Roja",37,3.5,"Los Angeles",90012,zXYAVcrLlwIDJl2gak59oA,34.0580781666013,-118.246889440519,mexican,Mexican,1
+"San Julian Restaurant",4,3.0,"Los Angeles",90015,nrw1RP6caE3uui5XaFFrVA,34.034676,-118.254118,mexican,Mexican,1
+"Churros Mexicanos",9,4.5,"Los Angeles",90011,5OpwFJF86RAtva0lKXz35w,34.0175514221191,-118.268775939941,mexican,Mexican,1
+"Antojitos Tropicales",2,3.0,"Los Angeles",90011,zkUZkH7Yw93cn1pSGoOMJg,34.0171944,-118.2691859,mexican,Mexican,1
+"El Pollo Loco",62,3.0,"Los Angeles",90012,PONty684St-M0l6_SWg9ew,34.05100479268587,-118.24767418404407,hotdogs,"Fast Food",1
+"Rita’s Cocina",6,5.0,"Los Angeles",90015,ltCRWuG_9t9f7oFNOy03Tg,34.0369503779367,-118.252712407407,mexican,Mexican,1
+"Golazo Restaurant",9,4.0,"Los Angeles",90037,qSjl8vLrZQhWDc2ofXoBwQ,34.0112549,-118.2776229,mexican,Mexican,1
+"Oasis Kitchen",1,4.0,"Los Angeles",90011,OWfCwRpR3ljDZmrDj43qMw,34.017324,-118.268697,newamerican,"American (New)",1
+"Joe's Sports Tavern & Grill",12,3.5,"Los Angeles",90013,KjM9g7-dxmD9TrO6SNz0Rw,34.0494624899813,-118.247728555603,tradamerican,"American (Traditional)",1
+"El Latino",1,5.0,Hollywood,90068,-n0kbd1IFzXw1d1tWdopuw,34.1240130711674,-118.323339897314,foodtrucks,"Food Trucks",1
+"Tee's Cafe",12,5.0,"Los Angeles",90015,lmLey_Uv60a76fsYk2b-Cw,34.0340294,-118.2535585,tacos,Tacos,1
+"Mixto Comida Latina",727,4.0,"Los Angeles",90027,h_R_5wD2zEd5R4sWjA9EtA,34.1088493,-118.2716819,mexican,Mexican,1
+"King Taco",164,3.0,"Los Angeles",90011,8rhL6bIDoH07mwrZiFvkRg,34.026645,-118.258616,mexican,Mexican,1
+"King Taco",520,3.0,"Los Angeles",90015,oe_6ph-Sc_dZr4RIBkyqoA,34.0280017740046,-118.257484662751,mexican,Mexican,1
+"Mexicali Taco & Co",949,4.0,"Los Angeles",90012,HTvyn97PloIn1kIGTIj-2A,34.0634262,-118.2456717,mexican,Mexican,1
+"El Grullense",14,4.5,"Los Angeles",90011,BjTjc1jajyxOUuIiD_eGqA,34.0259946252741,-118.258833177388,foodtrucks,"Food Trucks",1
+"Mariscos la Doña lunch Truck",34,3.5,"Los Angeles",90011,UMvVJxxL3kcVGc2NPbd0BQ,34.024752,-118.259765,seafood,Seafood,1
+"Corner Kafe",5,2.0,"Los Angeles",90014,57mFZWrN5SPCsxJw4_oC2g,34.0425033569336,-118.248992919922,breakfast_brunch,"Breakfast & Brunch",1
+"Mariscos Estilo Sinaloa",5,5.0,"Los Angeles",90011,WQELfJ2vuP-Eq-3ods3cZw,34.0255465,-118.2589349,seafood,Seafood,1
+"Mariscos La Doña",2,1.0,"Los Angeles",90011,Uumv0rSbMPfkKJIFLhqthQ,34.024812974966125,-118.2595762311691,mexican,Mexican,1
+"Maple Restaurant",4,4.5,"Los Angeles",90013,IVVzsCEcoZuNKKJuUbcOYA,34.0440444946289,-118.248123168945,mexican,Mexican,1
+"Paraiso Restaurant",3,1.5,"Los Angeles",90013,PZDu7K_g7LnrAYFA7nykdA,34.0498461574316,-118.246207684278,mexican,Mexican,1
+"Antojitos Puebla",4,5.0,"Los Angeles",90013,Gee2XD5dUzUuLihvnDL0rA,34.0466918538396,-118.247138746083,mexican,Mexican,1
+"El Cihualteco",33,4.5,"Los Angeles",90011,vy-7LHhJW_0ajy5jROEC6g,34.02347,-118.26041,mexican,Mexican,1
+"Birrieria El Chivito",1,5.0,"Los Angeles",90011,ZZwuGvMMWbeRds3bGVAgrg,34.022087097168,-118.261390686035,mexican,Mexican,1
+"El Paissa Mexican Grill",24,3.5,"Los Angeles",90037,qSuxNumLp_fM28snWEkKDw,34.0092834,-118.2782351,mexican,Mexican,1
+"Mr Taco",4,3.5,"Los Angeles",90011,LeNtcLg8zGr_FVLyt9DmJA,34.0222807,-118.2610549,mexican,Mexican,1
+"Frescura Tropical Alfredo's Fruit Cart",2,5.0,"Los Angeles",90065,cQS7lC6hG6bNmBuO90Ekhg,34.0534896850586,-118.245323181152,foodtrucks,"Food Trucks",1
+"QUERIA’S TACOS",1,5.0,"Los Angeles",90001,QNO4GCQMMTzIZ7_iwWp0VA,34.0534896850586,-118.245323181152,tacos,Tacos,1
+"Torta Movil",55,5.0,"Los Angeles",90011,2jYD8pnHp-IMAxogAMIrxw,34.0207033,-118.2624733,mexican,Mexican,1
+"Nocturnal Eats",5,3.5,"Los Angeles",90046,Xs6CPZbAyxUtYdmmWL-M2Q,34.09716033935547,-118.35924530029297,fooddeliveryservices,"Food Delivery Services",1
+"Lalos No 2",4,4.0,"Los Angeles",90014,RcNWQ6cjEeSVQ2Ytd2XLRg,34.04158,-118.24856,mexican,Mexican,1
+"Tacos El Gordo A Todo Vapor",1,1.0,"Los Angeles",90011,m58UOjGV_pYOMurNeyPobA,34.022514,-118.260345,mexican,Mexican,1
+"Ortiz kitchen on the Street",27,5.0,"Los Angeles",90034,7RWrNj2lL0GxfY5VPyApnQ,34.02932,-118.38816,foodtrucks,"Food Trucks",1
+"Frida Mexican Cusine",692,3.5,"Beverly Hills",90212,7lDG9IdRKfTNVylKhv3_cw,34.063337,-118.3989851,mexican,Mexican,1
+Tirsa's,284,4.5,"Los Angeles",90012,4NWhfamRULO9ZNoIVz7qDg,34.060957,-118.243918,mexican,Mexican,1
+"Chipotle Mexican Grill",237,3.0,"Beverly Hills",90212,b-ipBsX5A5Gk1eWqI2Y5vA,34.0633237944838,-118.398829330266,mexican,Mexican,1
+"Dalia Cocina Mexicana",172,4.5,"Los Angeles",90012,MSVqTBMGU1vqM9j-SzPq6A,34.051,-118.24501,mexican,Mexican,1
+"Taqueria Chepe El Chilero",4,4.0,"Los Angeles",90012,HZybR_oJtID3Vzp3lYW1aA,34.061,-118.24243,tacos,Tacos,1
+"El Ta’Colgando 48th & Normandie",25,5.0,"Los Angeles",90037,micmqzGa-oeAKC9CSzsGVg,33.9997596740723,-118.299835205078,streetvendors,"Street Vendors",1
+"Sunday Cafe",5,5.0,"Los Angeles",90013,blRozsoPU2AcRIa7i1w6uQ,34.04722,-118.24571,asianfusion,"Asian Fusion",1
+"Antojitos Lusuly",1,5.0,"Los Angeles",90021,7B5cgjvOGZFEvp0XHdr5Cg,34.03815,-118.24897,foodtrucks,"Food Trucks",1
+"Tacos Placosos",5,3.0,"Los Angeles",90037,mJvTeh0L7bYGKFY3K_nXlg,34.01024,-118.27421,tacos,Tacos,1
+"Little Llama Peruvian Tacos",133,4.5,"Los Angeles",90012,YXgxH0-raeo0t9BLbujUdA,34.0503941,-118.2448849,tacos,Tacos,1
+"Señor Fish",164,3.5,"Los Angeles",90012,fhgZPoQLejuh_iGgQ5Cp8A,34.0514183,-118.2443466,mexican,Mexican,1
+Loqui,728,4.5,"Culver City",90232,LXhSp1RYSHIEZ4c01ewmPA,34.0274352,-118.387498,mexican,Mexican,1
+"NeighborHOOD Cafe",83,4.0,"Beverly Hills",90212,3cqHzI204L70T9XxwwoZog,34.0648651,-118.3993925,sandwiches,Sandwiches,1
+"Tam's Burgers California #2",30,3.5,"Los Angeles",90037,RfJGyot1XE58IfhnUQqYiQ,34.0050735473633,-118.28311920166,burgers,Burgers,1
+"La Esquina",329,4.5,"Los Angeles",90034,1OXJaygVHAEGooC5gsH_Pg,34.0292220404164,-118.389159701765,mexican,Mexican,1
+"Tortilleria Coatzingo",2,5.0,"Los Angeles",90037,xh3vKXzAbNFyTtlQufIoIg,34.00714,-118.27865,tacos,Tacos,1
+"Jaliscos Mobile Taco Grill",38,4.5,"Los Angeles ",90001,OsASkLg5dWUzJVp_EzgZYA,34.052392981469445,-118.24368000761717,foodtrucks,"Food Trucks",1
+"Chanchos Tacos-Los Angeles",78,3.0,"Los Angeles",29715,jcGBhHtiDtWgvNrnTayUlQ,34.05223846435547,-118.24334716796875,foodtrucks,"Food Trucks",1
+"Margarita's Mexican Cafe",33,4.0,"Los Angeles",90043,6Q7PQ0crjqY1pv5RbxTdEA,33.9969177246094,-118.330230712891,mexican,Mexican,1
+"Mamas Tacos",1,1.0,"Los Angeles",90014,iy0D2iw9mwjNtoUezCHgMA,34.040341,-118.246746,mexican,Mexican,1
+"The G Spot",9,4.0,"Los Angeles",90011,pYBTDOFJL1I8OCz3uDDTfQ,34.0225151,-118.2588736,mexican,Mexican,1
+"Original Bill's Taco House",70,3.5,"Los Angeles",90189,KP-r5SDAeqqNwn865gD3ng,34.0111941288801,-118.271430882339,tacos,Tacos,1
+"Lil Chef Catering",3,5.0,"Los Angeles",90037,H6cVfyC7ZYvUj-G89fbISQ,34.002681836733025,-118.28747910691501,catering,Caterers,1
+"Kabob Express Fusion Truck",98,3.5,"Los Angeles",90017,vMNlnQsb_c-FGkZMhGj1xQ,34.052187,-118.243425,mediterranean,Mediterranean,1
+"Jack in the Box",28,2.0,"Los Angeles",90037,mQkgLhtdvsGbD7zvOBy-QQ,34.0043412343125,-118.282998204231,burgers,Burgers,1
+"Tropical Deli",13,4.5,"Los Angeles",90013,W5Cg_5oMa_xzoFgeCUYk2w,34.04765,-118.24414,mexican,Mexican,1
+"Guss Lunch Box",12,3.0,"Los Angeles",90039,RVT2IVoMKTu9j0EyJ7TexA,34.10172,-118.25885,foodtrucks,"Food Trucks",1
+"Mariscos Jalisco",153,4.5,"Los Angeles",90021,Xefl7O0wSC2pnGBH7zCXnw,34.0340039972124,-118.249286006082,foodtrucks,"Food Trucks",1
+"5 K's Mexican Grill",1,2.0,"Los Angeles",90003,-looID-9XhTaI4DWYxdg5g,34.0136528,-118.2665329,mexican,Mexican,1
+"Rubio's Cafe",158,4.5,"Los Angeles",90034,flxI7di7TntdK2IDAUR4PQ,34.02907,-118.39086,mexican,Mexican,1
+"Tacos Los Carnalillos Taco Truck",157,4.0,"Los Angeles",90037,3QRRptCEfjUtnDnZ4jTzMA,34.0039082,-118.2818791,mexican,Mexican,1
+"Cilantro Fresh Mexican Grill",4,3.5,"Los Angeles",90012,8D9cyksXTDwWerksusEvkA,34.05252,-118.24179,mexican,Mexican,1
+"Del Taco",97,3.5,"Culver City",90232,KQmNksLJfJTxR0WsxNlJlA,34.0278228166409,-118.390490970042,hotdogs,"Fast Food",1
+"Camarena Taco Truck",4,4.0,"Los Angeles",90015,t4F4M9V0l0SMCorcLQ686A,34.025822,-118.253614,mexican,Mexican,1
+"La Chiquita Bakery",17,4.5,"Los Angeles",90011,-UCFGKXVMpYfGDqNkCfw8Q,34.0110351,-118.26911,bakeries,Bakeries,1
+"Sabor A Puebla",6,3.0,"Los Angeles",90015,5-zmc9AUCHbAxo1ZnA4Usg,34.0362928368266,-118.26021835205,mexican,Mexican,1
+MIRAME,233,3.5,"Beverly Hills",90210,28fZa7WXM9Y5laZF4u5khQ,34.07075,-118.40151,mexican,Mexican,1
+"Ensueños Café",3,2.5,"Los Angeles",90013,LyQ1bGEiAf_iKyytvdjnUA,34.0451183,-118.2431961,tradamerican,"American (Traditional)",1
+"El Torito Cafe",40,4.0,"Los Angeles",90021,_GHCfGUFyLIQ0Gpx48KAyg,34.028621673584,-118.250755310059,mexican,Mexican,1
+"Side Walk Cafe",1,4.0,"Los Angeles",90013,Jq27mDh3XzzzHhuRwBNMfg,34.042675,-118.2436905,foodstands,"Food Stands",1
+"Taste of Mexico",1,5.0,"Los Angeles",90012,EuatFAE68mlMZWbuPhoXTQ,34.05646,-118.23775,mexican,Mexican,1
+"Tacos Gavilan",221,4.0,"Los Angeles",90037,syTxG8mBUsdhbAIFlvoW1g,34.00411,-118.27795,mexican,Mexican,1
+"Ricky's Fish Tacos",1226,4.5,"Los Angeles",90027,oNHjZ3wC0F9l5KpuqHd45w,34.112686,-118.267215,foodtrucks,"Food Trucks",1
+"Sharky's Woodfired Mexican Grill",259,4.0,"Beverly Hills",90210,_w-_cKv2LoV1BqVdB-AxcQ,34.070353,-118.4025841,mexican,Mexican,1
+"Los Compadres Restaurant",33,4.5,"Los Angeles",90012,pSQgXQ-bLxdzyxQaWQxTKQ,34.0584941,-118.239125,mexican,Mexican,1
+"Big O's Tacos LA",2,5.0,"Los Angeles",90012,abftjwqTuoSALK2h33_Udg,34.04836,-118.24076,tacos,Tacos,1
+"Rocky D's",2,3.0,"Los Angeles",90013,qRup-h1hsCDDLLkV17TW5g,34.0497214347124,-118.246015906334,mexican,Mexican,1
+Mexibachi,2,5.0,"Los Angeles",90034,AA3z8SNA8zwhhIj-6znqFw,34.02712322808953,-118.39280880544149,foodtrucks,"Food Trucks",1
+"Camacho's Cantina",1,1.0,"Los Angeles",90012,EYYiJ6CZIRV-DrCjTAes9Q,34.06742,-118.24144,mexican,Mexican,1
+"Martha's Kitchen",15,4.5,"Los Angeles",90013,P5RGGUcvqc2zj0kd-vKKTA,34.0449447631836,-118.241058349609,breakfast_brunch,"Breakfast & Brunch",1
+"Mariscos El Ingrato",6,4.5,"Los Angeles",90002,9IWFFVJznyNFlvkCWVi2KA,34.0459288144995,-118.240678417969,foodtrucks,"Food Trucks",1
+"Chiguacle Sabor Ancestral de Mexico",193,3.5,"Los Angeles",90012,x9DRROPYa4cgWcmwOHJ15Q,34.057162,-118.238642,mexican,Mexican,1
+"Chipotle Mexican Grill",147,2.5,"Beverly Hills",90210,aWt5iwb8ICV2DN8pCUDoCw,34.0713273509002,-118.403561689567,mexican,Mexican,1
+"La Papa Loca",14,4.0,"Los Angeles",90021,Bq2I6DC7OiLM5wSHbkCKFg,34.03297,-118.24581,mexican,Mexican,1
+"Un Desmadre Birria Tacos",5,5.0,"Los Angeles",90021,P5tfeSnTgWPyy9CpFT_y_A,34.0325442,-118.2466757,foodstands,"Food Stands",1
+"Poncho's Tlayudas",22,5.0,"Los Angeles",90037,ZUNMqx1epYDDcx9p1SF4gQ,34.0051214,-118.2736935,mexican,Mexican,1
+"La Luz Del Dia",327,3.5,"Los Angeles",90012,weG0lAd5sECK6eS-p3-1JA,34.0574509,-118.238118,mexican,Mexican,1
+"Quesadillas Lucy",3,4.5,"Los Angeles",90021,4Cl46sj1zV2xdfmmCrjyig,34.03294647304936,-118.24545637305206,streetvendors,"Street Vendors",1
+"Los Compadres Restaurante",27,4.5,"Los Angeles",90011,nsFTU4V8MRJsHDDgJv4uoQ,34.023082,-118.252128,mexican,Mexican,1
+"La Noche Buena Restaurant",354,4.5,"Los Angeles",90012,xY3GGdmvSFUIm-B_RFIjwQ,34.0571051016069,-118.238055449965,mexican,Mexican,1
+"El Arca Bakery & Restaurant",46,3.5,"Los Angeles",90062,hUi8hXlNPA5x-FWgUvefOQ,33.9931051,-118.3098,bakeries,Bakeries,1
+"La Golondrina Mexican Cafe",960,3.5,"Los Angeles",90012,EcWhh6JiQo7xkH70NPLGtw,34.0571939,-118.2384039,mexican,Mexican,1
+"El Rancho Grande",98,4.0,"Los Angeles",90012,vJYZi-bxdQPLJIyqFFC9Pw,34.0577449396947,-118.237960897386,mexican,Mexican,1
+"Las Guajolotas",4,5.0,"Los Angeles",90013,_B4DGXR4OJ0I7wxPUe97MQ,34.044806210221026,-118.2403322164658,mexican,Mexican,1
+"Mariscos El Pulpo",6,4.0,"Los Angeles",90021,zQLR4ysVoGQOp1ZozUfm2Q,34.03473,-118.24421,seafood,Seafood,1
+"Placita Cafe",117,4.0,"Los Angeles",90012,MS2_MmU40l6eqbcQ-vHjtA,34.0588399,-118.23788,mexican,Mexican,1
+"Catalina's Imports",1,5.0,"Los Angeles",90012,TKZAyBSPO4DvxfVH8iGvgg,34.057721,-118.237826,mexican,Mexican,1
+"Lupitas Kitchen",5,4.0,"Los Angeles",90021,X2wlGI5hE44DnUg6TKBcYg,34.026834141259016,-118.24898681388655,mexican,Mexican,1
+"El Paseo Inn",1358,4.0,"Los Angeles",90012,4Ttfvrc3S3xW1sxHF-oFPg,34.0574823572481,-118.237740052736,mexican,Mexican,1
+"Las Anitas",216,3.5,"Los Angeles",90012,atUAQ-9rovSumS3uMDCDtQ,34.0572027862072,-118.238174468279,mexican,Mexican,1
+"Mr Jalapeno Grill",1,5.0,"Los Angeles",90011,C-1MRfMcZ81nz4hZEyEOSQ,34.0216,-118.25267,mexican,Mexican,1
+"Buongiorno Pizza E Pasta",1,5.0,"Los  Angeles",90011,4yfNlX3Ww2MNi1VXe7S0cw,34.02172,-118.25283,italian,Italian,1
+"tacos el chivo",14,5.0,"Los Angeles",90021,VoK141m8ttQASdUk7L1GhA,34.03245,-118.24512,tacos,Tacos,1
+"Juanita's Café",230,4.5,"Los Angeles",90012,rbf0tBXGRiD5J91l4nKbxA,34.0578385925657,-118.23752263465,mexican,Mexican,1
+"Mexico Shop",1,5.0,"Los Angeles",90012,pnhPhBaN5n8gWXv08uWz1w,34.057875,-118.237494,mexican,Mexican,1
+"Mr Churro",521,4.0,"Los Angeles",90012,T3ArkEkR4NaUTtIRvKq-Ww,34.0574680985545,-118.237440134918,bakeries,Bakeries,1
+"Cielito Lindo",939,4.0,"Los Angeles",90012,RY_72fCN2JsR9pbTBJD-LQ,34.0572413,-118.2383631,mexican,Mexican,1
+"El Delfin",77,4.0,"Los Angeles",90021,7vTqEt9WEv6diboZcHvvgA,34.025071,-118.2497788,mexican,Mexican,1
+"Tire Shop Taqueria",578,4.5,"Los Angeles",90011,UUlGlPfy0FsReQ2LWWBSWw,34.00943435035074,-118.26549285178298,mexican,Mexican,1
+"Tacos Gavilan",376,4.0,"Los Angeles",90011,wWceW36ZgYba1jMUv1JfRw,34.02393,-118.25037,mexican,Mexican,1
+"La Fogata",17,5.0,"Los Angeles",90011,xPWSrdKqodeT1J8PJ-LE3Q,34.01875,-118.2545,mexican,Mexican,1
+"El Rinconcito",1,5.0,"Los Angeles",90011,GAJPsH2eCEkHhP4BW9wy8g,34.00904,-118.26542,mexican,Mexican,1
+"James Restaurant",2,5.0,"Los Angeles",90011,-hQnmaBCNg2YMzbvnyUf-w,34.0089798,-118.2654037,mexican,Mexican,1
+"Los Jorges",4,5.0,"Los Angeles",90034,OTzPUw6HlXJK-CnPbDM8nA,34.02572,-118.394107,tacos,Tacos,1
+Kayndaves,1307,3.5,"Culver City",90232,sr6S-enQo2uDl2KhBwIvSg,34.0250964,-118.3937963,mexican,Mexican,1
+"El Asadero Poblano",1,5.0,"Los Angeles",90011,HuebiR152s6qkOJUP_y8XQ,34.00415906799212,-118.27221187967008,tacos,Tacos,1
+"Chicas Tacos",183,4.0,"Culver City",90232,jKtbVKG3ODbZ8YCyOA99Rw,34.0250376,-118.3938404,tacos,Tacos,1
+Mexicology,10,3.5,"Culver City",90232,q9p94zyYAkQdmcLTRUgQvg,34.024932259562505,-118.39398718378807,tacos,Tacos,1
+"Ave 26 Tacos",69,4.0,"Los Angeles",90013,ZDZ7erc2V5XpJ-ltWEKqoQ,34.044515804282064,-118.23850211403006,foodstands,"Food Stands",1
+"Yxta Cocina Mexicana",1172,4.0,"Los Angeles",90021,b1CxnE2kErynRw9PQ8G_9Q,34.0390802757744,-118.240427716488,mexican,Mexican,1
+"Tacos Huetamo",1,5.0,"Los Angeles",90011,nwXHO-QwcD5COJ9VfhomgA,34.00289,-118.27319,tacos,Tacos,1
+"Downtown Taco",88,3.0,"Los Angeles",90012,Z1VNi3DheErRrEltjVJ3ig,34.05027,-118.23785,tacos,Tacos,1
+"Dona Estela",84,4.5,"Los Angeles",90013,ywubUTVw5TXt62Wjg6VWVw,34.04665951391384,-118.23765327226374,foodtrucks,"Food Trucks",1
+"Vamonos Tacos",91,4.0,"Culver City",90232,UNwQeCBUS-B55kDhh-vMyA,34.0247492531492,-118.3947106,mexican,Mexican,1
+"Angry Egret Dinette",65,4.5,"Los Angeles",90012,OcfkXxZk1hPLQMYWbhWZjA,34.066306,-118.2357132,sandwiches,Sandwiches,1
+"Cerveteca Culver City",588,4.0,"Culver City",90232,ONwiXlLM3GlF0bcemeoE0w,34.0250944,-118.3952881,mexican,Mexican,1
+Guisados,167,4.5,"Beverly Hills",90212,XnSa5BylQdcy0VwhmhTdPA,34.06647573851459,-118.407324291766,mexican,Mexican,1
+"Gotta Eat Tacos",3,5.0,"Los Angeles",90039,s8yIyOFwp2T9ajaOgYmotg,34.0979,-118.24712,tacos,Tacos,1
+"Chipotle Mexican Grill",238,3.0,"Culver City",90232,fWBfCcb_EbUNMowCEqoZRw,34.0233754,-118.3943383,mexican,Mexican,1
+"Chevillo’s Mexican Cuisine",3,4.5,"Los Angeles",90013,kVnJhzU-kVTWUMUWtiQn_w,34.04599437020955,-118.2369482592775,mexican,Mexican,1
+Salazar,1087,3.5,"Los Angeles",90039,98KeJCu_8XbfOXB1aRAW1A,34.107383201432945,-118.25442177303266,mexican,Mexican,1
+"Los Dorados LA",5,4.0,"Los Angeles",90013,XuadB0XMF40n0tb_CWswtA,34.04584371512065,-118.2366593554616,tacos,Tacos,1
+"Tacos Tumbras",9,4.5,"Los Angeles",90011,8tI2-dh2DBjtsd0zPtfFGw,34.00608,-118.26562,mexican,Mexican,1
+"Cocina Yalan Na",2,2.5,"Los Angeles",90037,CgNXZnd6vENGTXKLQdRSLQ,33.9964261806022,-118.283293247223,latin,"Latin American",1
+"Taqueria Mi Casita",15,4.5,"Los Angeles",90011,XCzoClutquFNj7cPKBWzwQ,34.0038127452135,-118.268895149231,mexican,Mexican,1
+"Tacos El Potrero",2,5.0,"Los Angeles",90011,ctXjmpHBoi07_bUpeNySFQ,34.0037151,-118.268948,mexican,Mexican,1
+"Taco Plus",273,3.5,"Los Angeles",90034,YHJTm4Z9kY7SBvPvLKR3PA,34.031244,-118.4005224,mexican,Mexican,1
+Chicharroland,102,4.5,"Los Angeles",90037,encr0DAQTk026tnpBi7dfQ,34.0005895363191,-118.273852172009,mexican,Mexican,1
+"MidEast Tacos",22,4.5,"Los Angeles",90021,T8-2IZ6DMr2VZ-kytrwjnw,34.0335465,-118.2405124,tacos,Tacos,1
+"LA Cha Cha Chá",302,4.0,"Los Angeles",90013,UUL3cdDeCA0gZIa8lBO1zg,34.04558,-118.2357,mexican,Mexican,1
+"LA Birria by Chef Anaya",104,4.0,"Los Angeles",90011,LCurKX4FcnHcVlhlRBUB8Q,34.01291,-118.25634,tacos,Tacos,1
+"Jack in the Box",12,1.5,"Los Angeles",90043,6ZIrMWaFMksNzuy5KrOXEw,33.9888862365956,-118.318284004927,burgers,Burgers,1
+Loqui,119,4.5,"Los Angeles",90013,eS1vk1koUiJPPiab-x2jaQ,34.0453919,-118.2357589,tacos,Tacos,1
+"Gatos Tacos Burritos",1,5.0,"Los Angeles",90021,LFGqWIfuEuC3_yya93hydQ,34.0301485110544,-118.242001915947,foodstands,"Food Stands",1
+"Oscarito's Catering",2,5.0,"Los Angeles",90021,Ivad15fbx3PI2XVFLzYSIw,34.0297050476074,-118.241943359375,foodtrucks,"Food Trucks",1
+"Con Chile Y Limon",3,5.0,"Los Angeles",90043,myhzZa9NWkzGfbS0QOY1Dw,33.9888589377024,-118.3351676102155,foodtrucks,"Food Trucks",1
+"Yayo Taco",47,4.5,"Los Angeles",90012,cU7dEooTJT5NmDt885yftA,34.0584824,-118.2325769,mexican,Mexican,1
+"Taqueria San Miguel",8,5.0,"Los Angeles",90021,WlpSmAMY8QU7crdTNcCwyg,34.0282036742922,-118.2418775931,streetvendors,"Street Vendors",1
+"Corazon LA",6,4.0,"Los Angeles",90012,fvR7aE7Hnt7k-HjQ0RZCPg,34.0510540725,-118.233089614,foodtrucks,"Food Trucks",1
+"Tacos El Compita",65,4.5,"Los Angeles",90021,_RZVZBH7yxsbqYj2nQhOog,34.02741,-118.24225,foodtrucks,"Food Trucks",1
+"Chile Verde",52,4.0,"Los Angeles",90047,h1GUHwPgJzGeejtxQrpPVQ,33.988114847376806,-118.3103003885998,mexican,Mexican,1
+"El Pollo Loco",83,1.5,"Los Angeles",90011,PlOnrvjb2WpC35IamEyPkw,34.003649804063436,-118.26562494575582,hotdogs,"Fast Food",1
+"Taco Volador",2,5.0,"Los Angeles",90011,-deNVvJ5s3MaYQXTB7XY8Q,34.010377,-118.256729,streetvendors,"Street Vendors",1
+"EL GARABATO mexican food fusion",3,3.5,"Los Angeles",90047,Y8bIwDXgkTdBZ60qC-1R2A,33.9885,-118.30544,latin,"Latin American",1
+"Tacos La Humadera Estilo Tijuana",10,5.0,"Los Angeles",90011,E64s70YSJ2LSV63vr6qGkw,34.01026,-118.25672,tacos,Tacos,1
+"Carlos Taco Stand",2,5.0,"Los Angeles",90021,UnVC_w90NtAPMWxYXYK1wA,34.0221090541329,-118.245391886864,tacos,Tacos,1
+"Tacos La Guerita",2,3.5,"Los Angeles",90021,LVsn6satfenBzm-tPyIlHg,34.0282588,-118.24005,foodstands,"Food Stands",1
+Trujillo,4,3.5,"Los Angeles",90011,h4qD7JU_8f2SrWu-bXynHA,34.0099543333054,-118.256447687745,mexican,Mexican,1
+"Restaurante El Compa",2,5.0,"Los Angeles",90011,E1zWzioirQzMoXkwd0_z-Q,34.0099749033141,-118.256334932696,mexican,Mexican,1
+"Playas El Salvador",1,5.0,"Los Angeles",90011,GTJWg-EtQbHP1SMHrivIKw,34.009973,-118.256277,salvadoran,Salvadoran,1
+"Mercado Hollywood",751,4.5,"Los Angeles",90068,bKeJWK8yxAo0x5y_0kGyVA,34.13166,-118.35262,mexican,Mexican,1
+"Seasalt Fish Grill - Culver City",532,4.0,"Culver City",90232,oMB5s2JsCbI2B1xg2np6HA,34.0218135290607,-118.397776482596,seafood,Seafood,1
+"Tacos And Burritos Pepe",7,4.5,"View Park-Windsor Hills",90043,i0gyBX9gyKobilPBwlwD4w,33.9888022543629,-118.342103516813,tacos,Tacos,1
+"Tacos Elizalde",5,5.0,"Los Angeles",90011,wSdbNJeOtawbXYtsZ_9RtA,34.00455,-118.26009,tacos,Tacos,1
+"Taquizas Alex",1,5.0,"Los Angeles",90011,FeiopPWsSt6XcZIo4NUsLg,34.0045509338379,-118.260093688965,tacos,Tacos,1
+"Kary’s Tacos",8,5.0,"Los Angeles",90011,eMZ0tmpMQTLZrIabRaSQ-A,34.00752,-118.25866,tacos,Tacos,1
+"South Tacos R&R",1,5.0,Ontario,91761,JRyXzzKHSmBnXPzGxLrogg,33.988722,-118.3003782,foodtrucks,"Food Trucks",1
+"Tacos Villa Corona",692,4.0,"Los Angeles",90039,MXvGRmu3cJC53Mr9KdCvQw,34.117769,-118.261504,mexican,Mexican,1
+"Tacos Don Eve",22,5.0,"Los Angeles",90011,l6mXbfWU0FOjdhR7BlCOMw,34.0090995,-118.2567233,mexican,Mexican,1
+"Mini Birrieria",1,5.0,"Los Angeles",90011,PaGwcbkgcjucgiof8xoarA,34.00911,-118.2567,tacos,Tacos,1
+"Lesmart Birreria",3,5.0,"Los Angeles",90011,sm0OufMROD1jGEB1KBOMFw,34.00911,-118.2567,popuprestaurants,"Pop-Up Restaurants",1
+"Otro Dia Tacos  Barra De Tacos En LA",153,4.5,"Beverly Hills",90212,S7VUHeRl6k54SVuYkwZ_Mg,34.0654253513734,-118.411946436164,mexican,Mexican,1
+"Frogtowns Gourmet Tacos",139,5.0,"Los Angeles",90039,KQZ8w5zpwzQIKKW9nfD9Bg,34.10544763577238,-118.24771651165665,tacos,Tacos,1
+"Best Damn Breakfast Burrito",85,4.0,"Beverly Hills",90212,QuWGzZBMrlvPUCH-mrqZmw,34.065425,-118.41218,breakfast_brunch,"Breakfast & Brunch",1
+"Sagrado Mezcaleria + Kitchen",35,4.5,"Los Angeles",90039,kW73uvEb7QCu9j9vHz3zwg,34.11790251145405,-118.26062756297848,mexican,Mexican,1
+"Señorita's Tamales",37,5.0,"Los Angeles",90034,pkfizSmxGlsPxUjhKSEbfA,34.0301138864681,-118.402745592313,vegan,Vegan,1
+"Mariscos La Corita",127,4.5,"Los Angeles",90011,_k7GvWRH72vd4N8b70uT9g,34.00225,-118.26484,mexican,Mexican,1
+"Villa Taco",1,3.0,"Culver City",90034,Lu3I0Hi7aEuP3zmxmeZxVA,34.022435,-118.3999679,mexican,Mexican,1
+Juquila,121,3.5,"Culver City",90232,TwTpkGyUeJoQTPp8e6mykA,34.022435,-118.3999679,mexican,Mexican,1
+"Los Angeles Chilango Seafood",1,5.0,"Los Angeles",90034,6l3BO6BDUX4BF42CzVdO5w,34.0225499868393,-118.400360271335,foodtrucks,"Food Trucks",1
+"El Pollo Loco",119,1.5,"Los Angeles",90044,a_Ak5gsTd8MP2DZlEksJ0Q,33.9894999,-118.29113242576027,hotdogs,"Fast Food",1
+"Taqueria don Lupe",3,4.0,"Los Angeles",90037,wfduRAXHYWVq89tRKfmaNw,33.99406,-118.277923,mexican,Mexican,1
+"La Que Si Llena Glendale Catering Truck",4,3.0,"Los Angeles",90039,tDTTqCL9ZziW7uPhr-thUQ,34.11072,-118.25059,foodtrucks,"Food Trucks",1
+"Habanero Grill",67,3.0,"Los Angeles",90067,8jURHJTctipUi_WowRWsnQ,34.05842898847391,-118.413825449669,mexican,Mexican,1
+"Puerto Angelito",3,2.5,"Los Angeles",90011,cYo3L5b32XHfqvXBEI7WFw,34.0012537,-118.2651251,mexican,Mexican,1
+"Served 2 Enjoy",40,5.0,"Los Angeles",90011,078jd5_RRYZx7rsaSOyA_g,34.0008009,-118.265021,mexican,Mexican,1
+"Jack in the Box",20,2.0,"Los Angeles",90044,fN9MDic769OVmbVp95rQ6Q,33.988875,-118.291839,burgers,Burgers,1
+"Taco Bell",41,2.5,"Los Angeles",90044,NgaUcEPWdc7AO8UN1acCsQ,33.988961,-118.291501,mexican,Mexican,1
+"Jack in the Box",41,2.0,"Los Angeles",90021,Rt0jJisnaK-jZ0qdYlyPkw,34.0250209582405,-118.23987364769,hotdogs,"Fast Food",1
+"Taco Bell",17,1.5,"Los Angeles",90043,6spUeO5TDCynkchOvCXdOA,33.985148,-118.330693,mexican,Mexican,1
+"Hugo's Tacos",634,3.0,"Atwater Village",90039,xzw8HmwAm9EWMOsF-K76fw,34.118824,-118.259368,mexican,Mexican,1
+"Papa Pancho’s Tacos",5,5.0,"Los Angeles",90021,H7i3248SjMskwf46fKjusA,34.035018,-118.234296,tacos,Tacos,1
+"Taste This LA",3,5.0,"Windsor Hills",90043,mCFBVvoZYGHAD6Rk1jESKA,33.98904,-118.35298,tacos,Tacos,1
+"Taco Limon",40,3.0,"Los Angeles",90067,y1-aV-6cciJ_XHLg7G0pLQ,34.060654,-118.414457,mexican,Mexican,1
+"Puerto Nuevo Restaurant",191,4.0,"Los Angeles",90043,xFfesHtX-QXc1-ZF4px-mw,33.9890149,-118.3533883,mexican,Mexican,1
+"Rubens Tacos",126,3.5,"Los Angeles",90034,L74s_GpFBRZFMvWGBOFUsg,34.02199,-118.401354,mexican,Mexican,1
+"Taco Bell",17,2.0,"Los Angeles",90011,4lOvxPDDOY0az_qGYnvmxw,34.006201,-118.256439,mexican,Mexican,1
+"Tacos Mar Vista",30,4.5,"Los Angeles",90034,CsqMONBJ6MUWQRdlZVVMvw,34.0219593357969,-118.401505726125,foodtrucks,"Food Trucks",1
+"Cemitas Catering",22,4.5,"Los Angeles",90034,6fOwPTHHf7UbqYdRS5kJZQ,34.0219177578916,-118.401525264178,foodtrucks,"Food Trucks",1
+"Angelicas Cemitas Originales",55,4.5,"Los Angeles",90034,IY6-nRMpcygKVp2kOn63ww,34.02223,-118.4016,mexican,Mexican,1
+"Carnitas Los 3 Puerquitos",19,4.5,"Los Angeles",90011,MR95CgCDxEBQfm1N-6E90A,34.004208,-118.25841,foodtrucks,"Food Trucks",1
+"Chuy’s Tacos Dorados",257,4.5,"Los Angeles",90013,T2yz7XPwL8CpBUcwnHhfow,34.039411256649394,-118.23147529237171,tacos,Tacos,1
+"La Chata Tacos",3,5.0,"Los Angeles",90021,QZhpW7iUAFvuOxIe6J3XSA,34.02697,-118.23727,tacos,Tacos,1
+"Juan23 Food Truck",20,5.0,"Los Angeles",90068,1IE47dgpGWhyw1DqLgwRjg,34.13376,-118.3567745,foodtrucks,"Food Trucks",1
+"El Flamin' Taco",60,4.0,"Los Angeles",90039,sDFS4nYIBhlFi3Xzo_6OaQ,34.12462,-118.2657,foodtrucks,"Food Trucks",1
+"La Antorcha Restaurante y Pupuseria",3,4.5,"Los Angeles",90037,5myY5q2Ci4E-2hvhTowByQ,33.9940822057202,-118.274086794081,salvadoran,Salvadoran,1
+"Margi Chimichangas",9,5.0,"Los Angeles",90013,_fOBQmfJEGC6ndCGZehdPQ,34.0353692637561,-118.23241877622752,foodtrucks,"Food Trucks",1
+"Tacos El Carnal",3,5.0,"Los Angeles",90021,6zg6AGygHurISv-G3mJXoA,34.02221,-118.239795,foodstands,"Food Stands",1
+"El Amoroso",242,3.5,"Los Angeles",90039,7mE0KbALy4JKVldNq5wnGw,34.1123188,-118.2493008,mexican,Mexican,1
+"Tacos Duran",33,5.0,"Los Angeles",90021,qB0bRnhFZURclzBDDuZ4AQ,34.0213961630457,-118.240321894443,streetvendors,"Street Vendors",1
+"Tacos El Carnal",7,3.5,"Los Angeles",90021,sH91QXnjim6UWeKVu2BOsQ,34.0225047,-118.239411,mexican,Mexican,1
+"Gloria's Cafe",1685,4.0,"Los Angeles",90034,G8A7OaP9rcR3-vAWb_7G0Q,34.0214793,-118.4025151,mexican,Mexican,1
+"Cemitas Poblanas",21,3.5,"Los Angeles",90011,5COo12Np3esVTBJPIpCjvg,33.996417092994,-118.268774346853,mexican,Mexican,1
+"Mariscos Las Aguilas",2,4.0,"Los Angeles",90044,cmlAdgcBDGF538wNvaYIMw,33.9883810409298,-118.287327545874,foodstands,"Food Stands",1
+"Peñaloza Mexican Restaurant",8,4.5,"Los Angeles",90021,yo_xnkVhWi7p7GoQ0aWAIw,34.02652,-118.23663,mexican,Mexican,1
+"La Flor Del Sur Empacadores",2,5.0,"Los Angeles",90033,x6-aLwhRXRLXKnDEPQvCPg,34.0502717,-118.2275603,mexican,Mexican,1
+"Tacos Juarez Estilo Tijuana",8,5.0,"Los Angeles",90037,CXP3Slpy0dDHcTQtAdSoZQ,33.99321,-118.27444,tacos,Tacos,1
+"Guerrilla Tacos",931,4.0,"Los Angeles",90021,SNlf3YpKkDG-e4R9jkwLhA,34.034399,-118.232130253186,tacos,Tacos,1
+"Antojitos Cocina Mexicana",559,3.0,"Universal City",91608,a5KvDCNBqX5UxuKTQY8ysw,34.13607,-118.35415,cocktailbars,"Cocktail Bars",1
+"Tacos Los Carnales",56,4.0,"Los Angeles",90011,l54HPAd5PraebhSmaB36WA,34.0041,-118.256164,mexican,Mexican,1
+"Jack in the Box",29,1.5,"Los Angeles",90011,wK44oC4Kba0vWN-bfkZyPA,34.00369,-118.25689,hotdogs,"Fast Food",1
+"Grill & Brew",1,1.0,"Universal City",91602,PcZsBuGCow4lYfxZx2xYrw,34.1355,-118.35146,bbq,Barbeque,1
+"Viva Taco Azteca Original",45,4.5,"Los Angeles",91342,xjtuHD3-hHe2M_oYsP5GcA,34.1254094038924,-118.265204839695,foodtrucks,"Food Trucks",1
+"Taco Bell",18,3.0,"Universal City",91608,lEMbXqPnpA6s67apbr8K_Q,34.136342,-118.352152,tex-mex,Tex-Mex,NA
+"El Ranchito Taco Truck",4,5.0,"Los Angeles",90033,8PM9bOr2I1i0uT4qEDwRQA,34.0475377,-118.227497,mexican,Mexican,NA
+"Fuente Restaurant",43,3.5,"Los Angeles",90044,CyJTSB0KyD_0Rm7rAMxjow,33.9866103629108,-118.291323568684,mexican,Mexican,NA
+"El Rinconcito de Mago",11,4.5,"Los Angeles",90058,M85k4ql2ytbKjVr_Cz3rSg,34.019674482423,-118.240189813077,mexican,Mexican,NA
+"Pepe's Tacos",7,5.0,"Los Angeles",90011,_tDl_7eBJeixtv7pwZdnfQ,33.9944345151047,-118.270181268454,streetvendors,"Street Vendors",NA
+"Tacos el Hermano",42,4.0,"Los Angeles",90033,ppS_MhoSK4KckpUDscssSg,34.0473899841309,-118.226928710938,mexican,Mexican,NA
+"El Taco Grande",27,4.0,"Los Angeles",90011,wvjfymfnwnP1VFs_lL5JBQ,33.992294,-118.273598,mexican,Mexican,NA
+"Manuel's Breakfast & Lunch",3,2.5,"Los Angeles",90012,L_FSoOxx8NWpemPFXgGzNA,34.0709261854572,-118.225873609262,streetvendors,"Street Vendors",NA
+"Cocoy’s Mexican & American Food",1,5.0,"Los Angeles",90044,Ex4t7M8D-bSvkdYmFzcRmA,33.98557545881369,-118.29195472568685,mexican,Mexican,NA
+"Fuego Grill",1,4.0,"Los Angeles",90044,tcDPEM7vd_SuowRWY9pJMw,33.985528,-118.291887,tradamerican,"American (Traditional)",NA
+"Adrians Taco Trailer",53,4.5,"Los Angeles",90021,-JEqW3dxvfCAsOP-IjbsNA,34.0317476,-118.2319277,mexican,Mexican,NA
+"Benny's Tacos & Rotisserie Chicken - Culver City",851,4.5,"Culver City",90232,iKCpdatfHBS4j7FfJNo1uA,34.020608,-118.404542,mexican,Mexican,2
+"Poquito Más",423,3.5,"Studio City",91604,wD5YDkvpRQ5x-EYSfmYY-w,34.13474,-118.3615,mexican,Mexican,NA
+"SaGu's Natural",2,5.0,"Los Angeles",90065,GkD1r-Vi2cKr_3bZKohszQ,34.099144388109,-118.235659562051,mexican,Mexican,NA
+"Baja Fresh",110,2.5,"Los Angeles",90039,RalYlLHfgQl3rXtPFdOPig,34.126444056905,-118.263958692961,mexican,Mexican,NA
+"La Estrella Mexican Food 2",1,5.0,"Los Angeles",90033,aJhZioM5AO-j6XqbZrsIHA,34.054613,-118.224588,mexican,Mexican,NA
+"Primo Burgers",18,4.0,"Los Angeles",90047,82WCs3yjCEfYElzVJEnkgQ,33.98161,-118.30927,tacos,Tacos,NA
+"Cosina Alambre 26",1,5.0,"Los Angeles",90034,K37ysgSUSHfYy9PNZCJqcg,34.02035,-118.40493,mexican,Mexican,NA
+"Alameda Night Market",3,2.5,Vernon,90058,WaNwZ0pU_HDETCSlvpAk3A,34.01724,-118.24042,farmersmarket,"Farmers Market",NA
+"Tacos Los Guichos",155,4.0,"Los Angeles",90003,Blb0Eso-wdKdBkqr80UHdA,33.988833,-118.2790517,foodstands,"Food Stands",NA
+"Asadas El Infierno",1,1.0,"Los Angeles",90065,E9u5nLX5rqhv6z1ddt2caA,34.115092,-118.248558,tacos,Tacos,NA
+"Tocaya - Century City",381,3.5,"Los Angeles",90067,1iH0JS9j41v_i7hxuUL8Yw,34.0599599,-118.41982,mexican,Mexican,NA
+"Javier's Century City",1315,3.5,"Los Angeles",90067,5dd7D6C3dKtpxzgsR5R1uA,34.0599599,-118.41982,mexican,Mexican,NA
+"Chipotle Mexican Grill",93,2.0,"Los Angeles",90067,2uSEc3MYOgn90KRcR6U7tg,34.05996,-118.41982,hotdogs,"Fast Food",NA
+"Tacos Al Carbon",3,4.5,"Los Angeles",90044,vjG3O1cMVB2-nLMpETzXag,33.9844876088192,-118.291352266103,tacos,Tacos,NA
+"Juanito's Tacos",7,5.0,"Los Angeles",90021,jkpfw3Qa3yRibEwi5yQaQA,34.018816871589536,-118.23799817055166,mexican,Mexican,NA
+"Puro Texcoco",11,2.0,"Los Angeles",90003,waRbhQZK8Rosc1kFod77Hw,33.9889793395996,-118.276977539062,mexican,Mexican,NA
+"Taqueria La Guadalupana",70,4.5,"Los Angeles",90065,HE8yOk2Ty25InmpStznKMw,34.10272,-118.2366,mexican,Mexican,NA
+"Madre Oaxacan Restaurant and Mezcaleria",966,4.0,"Los Angeles",90034,MjWMuWJNlxNXr-KmAXL8KQ,34.0287002,-118.4114403,mexican,Mexican,NA
+"Quesadilla Meli's",15,5.0,"Los Angeles",90065,H3cJ7V_VQWDL161wxHgERw,34.0986293019372,-118.233750741395,mexican,Mexican,NA
+"hook it up  food truck",1,1.0,"Los Angeles",90011,Xi-imMqeZt_QGTVrvck2-w,34.003454,-118.252466,foodtrucks,"Food Trucks",NA
+Salvamex,45,4.5,"Los Angeles",90065,q54b_YSNpYJv-wpeVZwvRg,34.1008796691895,-118.235191345215,mexican,Mexican,NA
+"Tacos El Birrias Estillo Tijuana",6,4.5,"Los Angeles",90065,euuPObkvWFhpW12taZPqeA,34.1008,-118.23494,tacos,Tacos,NA
+"Ditroit Taqueria",56,4.0,"Los Angeles",90021,WR3_Dw58mCnmGq-cW7H0vw,34.03314716116565,-118.229120390524,mexican,Mexican,NA
+Damian,152,4.0,"Los Angeles",90021,n8cs5yUAG6XVn52eMChCNw,34.03357583,-118.22909483,mexican,Mexican,NA
+"City Club Restaurant",19,4.0,"Los Angeles",90021,4Ci1Go2yuau36vRnwBqEkw,34.0310385078192,-118.230038657784,divebars,"Dive Bars",NA
+"El Milagro",47,4.5,"Los Angeles",90031,8sVUX79Ffk0_ObIpwVBNaw,34.0774040222168,-118.224678039551,seafood,Seafood,NA
+"El Taco Mexicano No 2",72,4.5,"Los Angeles",90011,4w3rjG89m7kEWiwdwrET_Q,34.00369,-118.25186,mexican,Mexican,NA
+Elen's,1,5.0,"Los Angeles",90011,9meY_RQZMnkcWkkeONpeeQ,33.9933411782285,-118.266981582036,mexican,Mexican,NA
+"Tortilleria La California",38,4.5,"Los Angeles",90065,6MWElD7t-Gz17452OlFy9Q,34.10468,-118.2375,bakeries,Bakeries,NA
+"El Pollo Loco",192,1.5,"Los Angeles",90065,OKom4poViaaWD_fEz1Rk0A,34.11449900707426,-118.2459697,mexican,Mexican,NA
+"Mr. Fish & Mex Grill",55,4.0,"Los Angeles",90056,JWpK0iuk9Cf2Vxvt5keVWQ,33.9878859,-118.3645205,mexican,Mexican,NA
+"Tierra Caliente",21,4.5,"Los Angeles",90065,YSENUwpVk_puPIy3XOZ5EA,34.102743377367595,-118.23582355828381,mexican,Mexican,NA
+"Taqueria La Michoacana",8,3.0,"Los Angeles",90056,fELzlqERcbsyRr0UVKWgcQ,33.9878240192095,-118.364468291402,mexican,Mexican,NA
+yaiquesadillas,1,5.0,"Los Angeles",90065,cGXKcWY09uCLfjI-0QdBUA,34.0835758712,-118.226020709,tacos,Tacos,NA
+"Tacos La Morenita",43,5.0,"Los Angeles",90065,jDkDrZ5PF7CSolAIfaQUrg,34.0953941345215,-118.231010437012,tacos,Tacos,NA
+"Don Sazon Restaurant",3,3.5,"Los Angeles",90011,StnoIhUtHxARjHYoTO7G_w,33.999654,-118.256265,mexican,Mexican,NA
+"Casa Galindo",1,1.0,"Los Angeles",90044,UD1S7s8ILxiclZ9BZzUVQg,33.98329,-118.29114,mexican,Mexican,NA
+"El Pulpo Mojado",1,5.0,"Los Angeles",90044,khxFQH1HHSBqlvYUdVvekA,33.98329,-118.29114,seafood,Seafood,NA
